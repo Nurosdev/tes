@@ -3,10 +3,10 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"UNITY",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/2247696110",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111-",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712-",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/2247696110-",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917-",
       "backup_native_ads_Admob_or_applovin":"",
       "backup_ads_banner":"Banner_Android",
       "backup_ads_intertitial":"Interstitial_Android",
@@ -94,10 +94,10 @@
     {
       "id": 9,
       "category":"Bis",
-      "title":"Avante ES MOD",
-      "image":"https://1.bp.blogspot.com/-uq7mK3F2xZM/XFz96Fbtm4I/AAAAAAAADA4/_G29ZZNunl4MXF_AMnuFvOYI9N4yjWbfgCLcBGAs/s1600/Screenshot_2019-02-08-10-53-15-524_com.maleo.bussimulatorid.png",
-      "link_mods":"https://www.mediafire.com/file/skma4ytnog3b5ag/Avante_D2_ESMod023.bussidmod/file",
-      "link_livery":"null"
+      "title":"Bus Persib Full Strobo",
+      "image":"https://pbs.twimg.com/media/Ds71ZbVU0AA8CiF.jpg",
+      "link_mods":"https://www.mediafire.com/file/a8isjk2ztughfrg/SR2_ECE_R66_scania_ceper.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/jl6iv1k1ns29bg7/persib_bandung_by.angga.png/file"
     },
     {
       "id": 10,
