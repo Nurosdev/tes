@@ -82,6 +82,15 @@
       "image":"file:///android_asset/bus3.jpeg",
       "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
       "link_livery":"null"
+    },
+    {
+      "id": 8,
+      "category":"Bis",
+      "title":"Avante ES MOD",
+      "image":"https://1.bp.blogspot.com/-uq7mK3F2xZM/XFz96Fbtm4I/AAAAAAAADA4/_G29ZZNunl4MXF_AMnuFvOYI9N4yjWbfgCLcBGAs/s1600/Screenshot_2019-02-08-10-53-15-524_com.maleo.bussimulatorid.png",
+      "link_mods":"https://www.mediafire.com/file/skma4ytnog3b5ag/Avante_D2_ESMod023.bussidmod/file",
+      "link_livery":"null"
     }
+
   ]
 }
