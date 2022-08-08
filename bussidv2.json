@@ -27,6 +27,253 @@
    "DATA":
   [
     {
+      "id": 211,
+      "category":"Mobil",
+      "title":"",
+      "image":"",
+      "link_mods":"",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 210,
+      "category":"Mobil",
+      "title":"Mini Bus Elf Bejeu",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi4SGLe5eWmG7vFNpzuPu8fpYJPFeMS7D7SUNPTNO8txgepWg1SjkqPGFTiH1A-SxrR1AHzu29MscBcoKjvR56z7-O_juLr1Cp-1KYz1rHnrIZXspAPh3zA3C5YlmjakB-AQFm0nX8GyCPvujLw0x3GuV1tHRcNdeGzoQ4Wvu_t7u0JAeBVsT5jwU/s1600/Mini%20Bus%20Elf.png",
+      "link_mods":"https://www.mediafire.com/file/mims4bzi5ajy7lw/MINI_BUS_B.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/zydguoswc89wpcy/ELF_-_Bejeu_1560100867994.png/file"      
+    },
+	{
+      "id": 209,
+      "category":"Mobil",
+      "title":"Isuzu Giga Ridho Ibu",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnmkQkXkLcBLBKw1Mj4HDkRPDxbsgm7Uxe4apG0pjSSir1lKW82zdE0Deowhv1_850CU0WlR5Jz8jd2r963u9Mhq6BrySgzDboL1qkC0FZwTe6f8r_44EuFmTEznvhyo1PN4b3J-NiKmYCs-FUfy4c9nP8jdCgzf-sypj5v3VIuuPQ1rOFOrdzpBQ/s1600/Isuzu%20Giga%20Ridho%20Ibu.png",
+      "link_mods":"https://www.mediafire.com/file/pv5fcslbes655u5/elef_nmr.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/ku5rz6rblay3234/Livery_Ridho_Ibu_Elf_Giga_By._Warung_Game.png/file"      
+    },
+	{
+      "id": 208,
+      "category":"Mobil",
+      "title":"Elf Espasio Haryanto",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQAc-rnOjJ0mcN81kuxT3Z9W7__-TzqcpPE-rBvZ_Iy9umaAq34TmvN5fBzkfTaCyBGaZIzLceitOneD2diyA4UJRn5NO9Uml4swUh4tnBpKThDlDDftcrxFHreXYGgKff3fVNfUfULLYdYF89IRX9cPFbf_-lQKU5AEhrMPdI7WZSTNqeEKtj4ZQ/s1600/Elf%20Espasio%20Haryanto.png",
+      "link_mods":"https://www.mediafire.com/file/icgsf6aujoc8x6w/Elf_Espasio.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/amwbyas743q529n/Livery_elf_PO.HARYANTO.png/file"      
+    },
+	{
+      "id": 207,
+      "category":"Mobil",
+      "title":"Nissan Serena",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJWtRKlsRM_MzCY-LvmRsutmKFwbbT0xd8BDlv5UTtlxnqlcURAEpibHzl_d7gXhoTRG4etnd9l9qWwbGf2Jr9XbDh9ATKRMM4muLZ5aPIpGAl4GSpFR-PK6UfgteQmjhEiI9oRm4fFKlAlnPSYPTqqyO-olMDXCK55WEE03hBN4Dd7xbb38r6oP4/s1600/Nissan%20Serena.png",
+      "link_mods":"https://www.mediafire.com/file/te11l18ndwja981/SERENA_BY_DSP.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/aohd820j8wfthja/Red.png/file"      
+    },
+	{
+      "id": 206,
+      "category":"Mobil",
+      "title":"Travel APV Ceper,
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibemfdFBPh1lUL96csLPj-BXKPu2igK9x_626ykU3pEexuX71yHPLl_bV9fMoMytbekiSuBkKjvOKFVJWzdyx79c2KmpimDQM0dd3Ts3WjS9TvEbAly37tGgI8TvwVbLLZ3q9cC8MdOmheGo4FwfxKsUbo8b800R4FiaSVdPmBSR1PxPRlswjN3tE/s1600/Travel%20APV%20Ceper.png",
+      "link_mods":"https://www.mediafire.com/file/dc5y5iwcx1tsg29/APV_CEPER.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/k9uk9axj3cmaiko/Liv.png/file"      
+    },
+	{
+      "id": 205,
+      "category":"Mobil",
+      "title":"Elf Full Barang Powerfull",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEmoCF4P-LC-yXhrazN5fjmxO6bFr2zUgbS043kORq0svAghoZ2nUu36Tfg3vIknSgd14Qh8oAzRGQuPaRPRIsDATcSMSo5yWgwSxD6TRQPTb08XxkIjYZY8Y9ZXUjODVcoxvII5QH-UswNc_TXvo6c10JO6A00PDY7ag7G8tFOtJFYI-JXoMM-CY/s1600/Elf%20Full%20Barang%20Powerfull.png",
+      "link_mods":"https://www.mediafire.com/file/38o4s14j1t5dhg6/ANGKOT_JMC_V1_VERSI_MUDIK.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/oxavelmflasmv6b/PicsArt_04-02-08.03.25.png/file"      
+    },
+	{
+      "id": 204,
+      "category":"Mobil",
+      "title":"Elf Hino Dutra Agra Mas",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEGbIIfWZUoZTtJWVfENWHLBDZafwDIQKZ5AIPjmi0REc26vrbWKNX-qlGUkV-3YJP9QJBXj2NxL6_fbGTXu8fCB3lQZH3j1kQyieYDG1KIOd3AbwKLPRdwbj-bAhSi8or6dXm14SXxa4vw6YA6_LvMvX45Z7wMMVcKijhDajchK40iVhqhm3ez98/s1600/Elf%20Hino%20Dutra%20Agra%20Mas.png",
+      "link_mods":"https://www.mediafire.com/file/9l79rod9t4z4rn6/HINODUTRO.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/jp5jk7qgarcrk9j/Livery_Hino_Dutro_Agra_Mas_Raaaa.zpm.png/file"      
+    },
+	{
+      "id": 203,
+      "category":"Mobil",
+      "title":"Elf Espasio Harapan Jaya",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4FtV0zltBXSEvNEYsx1ms7zK-UkcnL4PkmqKo13NaVhOMb0VsU0TfRwGzKRRvUcCIJ6aSL7VPVNlMe51Z4q7sevsf8V1Hy3fE4AyJRFnTyzs1PV8B7a7yxr6ipANsdZ8x4bRZpp9F1TtpAdS7k-NLhBa-aX6CxyG09ccVyifVISYvkrIImV_6j68/s1600/Elf%20Espasio%20Harapan%20Jaya.png",
+      "link_mods":"https://www.mediafire.com/file/z3szmqtl6afsi4a/ESPASIO.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/8cs1ejpahvdud85/Harjay_Elf_Espasio_by_Danny_Boo.png/file"      
+    },
+	{
+      "id": 202,
+      "category":"Mobil",
+      "title":"Hiace Premio Yellow",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiotT601r1RGR3V7e2Cymx9L4noEQmow8UkuS8DjL9_15Pcv5VlMZTmbSptEClwnq_vKvTlF-eNcoblWttxzmG9i3SL-eXLD5A7EE7_ZmTkNYKaYOGFeyz4Wqd5qOE7js0dVaYX05hhRCPzUrwLX7WJMpQQHQ_B5ULiiV3GdfcIVHRfRWMVssnoHk0/s1600/Hiace%20Premio%20Yellow.png",
+      "link_mods":"https://www.mediafire.com/file/7erb45z0m7q7apa/hiacepremio.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/tymy9o09cxq95az/20210107_103440.png/file"      
+    },
+	{
+      "id": 201,
+      "category":"Mobil",
+      "title":"Elf NKR Mbois Tony Trans",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis-ac8em5mHNCGEcO4JCJyn3QNWQHnO-iwEizkDxsiecb-Z3y5wmnNhpE6pXdcvcung1m2TIM4x3EgLCMV5dywpDcIqlKm_t8WwRT8i48-dxQK94_4zYmytuX-WltyTq2peBFkGMH1dp6eFSuwtfzZqBk9I5kslQktkro5ooX8oXhrAVu6dDzi8GE/s1600/Elf%20NKR%20Mbois%20Tony%20Trans.png",
+      "link_mods":"https://www.mediafire.com/file/1m8gujsguz4230p/ISUZU_ELF_BUDESIGN.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/lknxbraqq5zgfme/livery_TONY_TRANS_JAYA_BY_TONY_05_ID_v.png/file"      
+    },
+	{
+      "id": 200,
+      "category":"Mobil",
+      "title":"TNI Gurkha",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigQR2iOlGx6ioRmsF3BHln66LmwuVR39k1usjvxOX6PpyiT1Nm3JXpLPHeQ6jajhwPVDQMc0VynheqCd3mck_FdqxkZ1CLqW7gvvVU7iHBFlOBME3KfSg3TuiuPRSDDgNmVxJtc08Eq3iEHZnaI0mg9F6vmCsFiCo21QsU17hO58MNrQzBklhfa30/s1600/TNI%20Gurkha.png",
+      "link_mods":"https://www.mediafire.com/file/shdynzjsbewy0gc/Truck_Tni.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 199,
+      "category":"Mobil",
+      "title":"Mercedes Benz 6500 4X4",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLno8YkdXKlhbre7WSLTICNFga2DQK6LFAUDqZ4Q_OgMWZE8u5vt_YbtizG953KbH_o7sLEaZ8AxsZPCTNoX9NWWv0klQ0ysbJVNUMLvjf_-K80_8yEbRBEGpUTxRWPXTm2YDkkp749LTFfkYNUVDo9EaYgcR0kyA4XhNnEJTDEu5fCcc8nwN7uHc/s1600/Mercedes%20Benz%206500%204X4.png",
+      "link_mods":"https://www.mediafire.com/file/aeok8si0w1fh9av/Mercedes-Benz_G500_4x4_cvt_MAH_Channel_driver.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 198,
+      "category":"Mobil",
+      "title":"Hummer H2 6x6 Offroad",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtN_XcUtcVjQRkF-54QFSd2jb3CX9Ln_y36wYVzhXzRoCOUBKsS_T1PAazBdwsDxugkvxKNckTDXapgIEK2rnIPSl-iuBxg7wo6N8daNmabEqRgOAfbFdkGA7b0di1GhWM2TZKu61xvSMnA18l--fCCp23jnfOde_Lv7I7PKcsOlXePHyFWg_PfWU/s1600/Hummer%20H2%206X6%20Offroad.png",
+      "link_mods":"https://www.mediafire.com/file/isrfv5hnnak0szd/Hummer_H2_6x6_Monster_by_xsetus_Driver.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 197,
+      "category":"Mobil",
+      "title":"Strada L200",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga6jU9Ua5zcBO9H_6dZavZeWUkNKgfGDwRsZzrDzgIShIMVN6NhP2MlMVZ3X1OtLcDIs_9qwz87GUGlbT_knMSRln8R-qIt-PDecR19ZoLmHEBKv7uIN4Q2vS-2ic0RIG1QA3sSBwNr5vadpkiO8uj2w4SDAS14GZSK16liDRmSAj7Yh3E-LOa7h8/s1600/Strada%20L200.png",
+      "link_mods":"https://www.mediafire.com/file/yj5g8huehfez5ws/6._Mod_Mitsubishi_Strada_L200.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 196,
+      "category":"Mobil",
+      "title":"Sedan Monster",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVZ--z6TieHwilvCeAkGgGvi9O1pUnjweD0-7HPuqB496FKl5F9osgZk0Vv_yUeWtbXVd04NLOn-8QcavRazkQuQAkw12hJGdz2zmKu8SyJkDm1E4VKdkBvrV-LHHsfnnofqO_7ytZbR_JbluuI_WX4DQGsA37mZ6FlZK0dMaVHkCCdWc0y57wW1U/s1600/Sedan%20Monster.png",
+      "link_mods":"https://www.mediafire.com/file/ck2gfe9ha4ervwg/Mobil_Monster_convert_by_Azu_Mods.bussidvehicle/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 195,
+      "category":"Mobil",
+      "title":"Wuling Almaz Offroad",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggzNAxelOmeEj2mMzJxNYllTw0kcxWplP8S3g0Y8EC_WrgQN47MFbs25RN1yBocFrehBKVgUVDEIwceFL_PKxxWAzEgDC8Sm4jPGzoEUierO3b8aks6CcKiXShaZNB3CsbPbGKclHsyTPc_t0ys7WhBLmgJMXCxWLFmXP6NDciFCQ7QwFTuya47j0/s1600/Wuling%20Almaz%20Offroad.png",
+      "link_mods":"https://www.mediafire.com/file/qvreu5vzjw0rdy8/Wuling_Almaz_Offroad_V1_Suspensi_Empuk_by_DSP.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 194,
+      "category":"Motor",
+      "title":"Yamaha 125ZR",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNhRFJ_LN1bjLD1tQw5iqkDhz-iN-0Gn8U3zyHnm6ulOci8sO449r9dqQ3YUsmAfqoAkxx8srP9MW42VvEetGPDVX74h2932B8wYxjh12MeMhDX6STOZbuAXLUbHnj5PeUIp7PSRsUfgxbyPH6nZaN5pgwb8NOnBw5jV-dtZeTN9fod9MbpxUoGRw/s1600/Yamaha%20125ZR.png",
+      "link_mods":"https://www.mediafire.com/file/9b6w44y30lgmlk5/MOD_YAMAHA_125ZR_CVT.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/7c2vf8ubc9j76om/IMG_20211209_110137.jpg/file"      
+    },
+	{
+      "id": 193,
+      "category":"Motor",
+      "title":"Yamaha WR 250F",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOUQ9NHE8ESdDJlGD52N7PaJmYQiGQ7Ff8h7u1coNaQMrXzBng8DKlP96fLNv7icF-QjNSn7e7pcgwQon4cRRnnQLD-lCKQMukd_TsrvPwXT4bYtTLz26OVHo0C_HmzHwAg2LWarKj8tY4s7W-j_bmvSM-rOebszcaGzUIZeF50ZCPC5qX3YqdVsA/s1600/Yamaha%20WR%20250F.png",
+      "link_mods":"https://www.mediafire.com/file/2f1xflbwhhwa7wh/WR250_V1_Standar.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 192,
+      "category":"Mobil",
+      "title":"Canter Towing",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi90bQ6DDaCX_smJYOyHiacwASW1y3LJN67dvN7b_yKTTuioDPXQmhm3y3dSTq5fjzR3InjeEohHMipp7WPYns6ybL3kQDOIL7PkfDKuy9_0dDRRr0PUsz_zeVzo_caMOJhpK6oBGD37lvqKsiyBCekcwZhgWAG9yYDU3kvugFJlrlQ5zF5dVCcQ8I/s1600/Canter%20Towing.png",
+      "link_mods":"http://www.mediafire.com/file/36jt2gum9ty0qvd/Truck_Canter_TE_Muatan_Honda_Jazz.bussidvehicle/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 191,
+      "category":"Mobil",
+      "title":"Pickup Ceper Modif",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikcThmzHtgoySoG7Hfa0VDToNuq7wJMT5K6CS_Xe2sgvKHZGmQTJjIT2X5gm05Fu6YutC0KEZYPnVgw4WRTQ9M5YcwdZM6Huk07g4fwKL57xROVv5S9eajD6lx7XF35Zs5Yswz4FCbQtTZBZTSKhNZM1huaUEYVmouI8h9Br_rqVc2XQF4LE0k-q4/s1600/Pickup%20Ceper%20Modif.png",
+      "link_mods":"https://www.mediafire.com/file/3rel6ou49f3bjrs/L300_FC3S_Bonfire.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 190,
+      "category":"Truk",
+      "title":"Damkar",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMf2n0zKR19wHN8Icu6H2s8OUg6eEekkrMJ3rc5u1TyTNFMaHvLmIMyGDQOrF594TvC-TyMtCoUI8n5Rbrm7J93xuZAH-twUN5vy7oIrzw8j7Zssri8ad3qBOxakcqjuV70MM3IhN876CAn4GLN7eoP2cmvEZFhTn9JThiD5h3eS48xnGlYIr6CgY/s1600/Damkar.png",
+      "link_mods":"https://www.mediafire.com/file/jrmptq1e5mfugmm/Mercedes_Atego_Damkar_.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 189,
+      "category":"Mobil",
+      "title":"Greentea",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidOkEzVYLpMTmDRYLaroOOB3TkhrazYIGZIdS9OFwigMSDE34Pj9v5_azvD5eYNLsyK8Zr_88-Cbx6RYYlwwAS6kzO-X6lUnXUEbTCdP46pRdTaA2HsMtJCidxJnkVpmu-pjyzrX9VoiE_dlWtKvz5lwUtGG-Lmzvhj9eNYyYoTWbz6aNI775lbwA/s1600/Greentea.png",
+      "link_mods":"https://www.mediafire.com/file/h0efkggakyol392/Isuzu_ELF_GIGA.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/hhe3wgprqaw4omr/1_Livery_greentea.png/file"      
+    },
+	{
+      "id": 188,
+      "category":"Mobil",
+      "title":"Angkot SE",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqs_69Y9OBXJNSlOLI1lh2-JZpKgua3vAz56W7bmN9Q0fXZ_9A_nWyBD8aLbJl1NlHyhFadTHKNj_6glML7dWRqpM-mHwmh9chre3cOLeLMemSRMpph1c4tiBXHaOEZQ6csD336nkh3-wByDa3UMdMHcrLHxy0_jEJhZge4tYa3pGbHV77-iJZ6pc/s1600/Angkot%20SE.png",
+      "link_mods":"https://www.mediafire.com/file/hq1mram1o6u9hcw/Angkot_Racing_se.bussidvehicle/file",
+      "link_livery":"https://www.mediafire.com/view/qd6nzkc372dls5i/5.png/file"      
+    },
+	{
+      "id": 187,
+      "category":"Mobil",
+      "title":"Mitsubishi L300 Racing",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ0xIq2YV1Tj1sSQHbCQYRiclXcesRXkPa65VzNT_mCjap2QBuayaZjsHrkjFBd4lt66bmDbF8DN6QAg1tAlThSVxAFAlS9Qzwr4Vr-VoJzKbkRIAThKO2BN8TDpdjJDtL_ZC_gxWdtuTimLIovrNaNM80gDD5-jYVBPRzoyET79b9-A39W_8xBMQ/s1600/L300%20Racing.png",
+      "link_mods":"http://www.mediafire.com/file/ab28yz0rwkg50mb/Minibus_Mitsubishi_L300_Elsa.bussidmod/file",
+      "link_livery":"http://www.mediafire.com/view/djp3h903xxqy3bq/Livery%20L300%20Elsa%20Racing.com.png"      
+    },
+	{
+      "id": 186,
+      "category":"Mobil",
+      "title":"Toyota Hiace Travel",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjal_H9IIR_zsev3X6J4gIUepeffLsUApi2PC08mAECkQ49KfkjlWwH-4BKfkse5R6hN9GTnczeiwl6wj0ATlGJ29i-x-0hrw7jVCCEaEE1iMbtgTCwZ2Hs7aI35OAo2B6vc8z8FzrVI2HPBBwrZLlVUKuCRHU8aXiOTwMbcU5-YMyzfrPQMFDH-o0/s1600/Toyota%20Hiace%20Travel.png",
+      "link_mods":"http://www.mediafire.com/file/t3oydqv3k85kd6x/Hiace.bussidvehicle/file",
+      "link_livery":"http://www.mediafire.com/view/sqabzixydnvm5q2/HR_Wayang_Hiace.png/file"      
+    },
+	{
+      "id": 185,
+      "category":"Mobil",
+      "title":"Colt T120 Delica",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDhBAaZZXb6ITUeYjp4HmcdwRnTL8hrPu1P6Kv-fCIl1Urz-mv_6eQi3W-5NuuuJ3x5aPiD4wLcEvPLirH0FVDP6RqX2qD2vOotcXXjFJz1z6HB0xLHh2c4bPMZpsE51I_F7x0mhJEUSdmmb9ULkFqAIrFMMzFJ4khlxH-i41aGP042EUB15dB8ps/s1600/Colt%20T120%20Delica.png",
+      "link_mods":"https://www.mediafire.com/file/mo0kvp70qhau6pf/MOD_COLT_T120.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 184,
+      "category":"Mobil",
+      "title":"Avante",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRVws1pF-8wIXgiNXQ0a4KS1xNiyAspfsh2VSZHrQ4JwQp5aeV4DqluwMXOeJM9GIamaiyH9LP_7IyLWwP78Z0Dr_JpVAEQ9o6lwBJjr9YuAB051eY33tKgIEXZDE7CPirxuViJn18rrqbeSUZqMNNALK0W-2wbOJrdYv1LMx_0H8--lB8xdMTseQ/s1600/Avante.png",
+      "link_mods":"https://www.mediafire.com/file/ea1gq0zxk9a2yw8/Elf_NLR_55_Bumper_Avante_by_AM_Project.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/1zwdf0d0lrat4yt/1_Elf_NLR_55_Bumper_Avante.png/file"      
+    },
+	{
+      "id": 183,
+      "category":"Mobil",
+      "title":"Star",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-5Hy__jAKXQSAdGO9DOwzZIsZChYcDbjy-6ue1KTTh2far09GEztfyfSbbFvI1BONz4p1AtiwTuRfTnIospjVkGQzzXMDzKBjshUzyDUmZ0IbXFSQT0qXKhKqmcoAXB-c6LJsXdqp9pIonorX_WkPbqwZKUKUVNBBCEXgRR5EnKMJSRRSvvsCWlM/s1600/Star.png",
+      "link_mods":"https://www.mediafire.com/file/d9dvw0os4aa1cy7/MOD_ISUZU_ELF_V2_BY_AZUMODS.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/jtjnqn38hxfspx8/1_Livery_Elf_sempati_star.png/file"      
+    },
+	{
+      "id": 182,
+      "category":"Mobil",
+      "title":"Elf NLR",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixGA2ePHdeo-KmSQJzrzR0X_dNe0_N6i5hZz9TXq9niWlLe3MLz9cxtfJkp9oTSvUXjydErWk8bXVIS0qoEdJTa0hLzEDr25gq-ZfW2R2kewYkcpRpyBhEVG_krarIH93W_Mrtf3dL7Bkhnsnz_Fdakva_hI6zQwlZwfpzz0N2P8otDlht0ptl71M/s1600/Elf%20NLR.png",
+      "link_mods":"https://www.mediafire.com/file/oyo9ogox5lextth/Isuzu_Elf_NLR_55_by_DSP.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/qwug746fq0347rn/3.png/file"      
+    },
+	{
+      "id": 181,
+      "category":"Mobil",
+      "title":"New Tourista",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2K5CjLyYQzPM9ryffNYF60z2XnAjDSR5HbQC32OVC6ZBBbniKjGHT_0XvP4zUTK4xPmlyxxY7Bb14pCA1G6WBUthANHFq7YKlzAScvIzsTJ9PdN_jEOltPB2WdNMTfxpImTEAEr7Bc9kcgQDHFqkXNu_Q5TN5mwbJqCqBy31Np3GfF9sHNKAgdBk/s1600/New%20Tourista.png",
+      "link_mods":"https://www.mediafire.com/file/sk6k6owka3g6rfa/All_New_Tourista.bussidmod/file",
+      "link_livery":"Null"      
+    },{
       "id": 180,
       "category":"Mobil",
       "title":"Granmax",
