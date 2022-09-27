@@ -27,428 +27,508 @@
    "DATA":
   [
     {
+      "id": 63,
+      "category":"Bus",
+      "title":"Gunung Harta JB3+ Tronton Volvo B11R",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGPhYU2rJKppjtb0OJRTIAUVyFjXC_wrKKdpF60bj8-vktxStR1xRPtsz4ZW8P4YoF_RWnkDhMk4SkNZD9omxNr383QG_tncACQ9UuIGjh52KcXFinkPhf-bmYjj6Y0ibe9_DoytsB4zCXzB2hJcQoF7dzz7jTTwQGA9C8Ua29LQ5nqy0pGUxQeu0/s1600/Gunung%20Harta%20JB3+%20Tronton%20Volvo%20B11R.png",
+      "link_mods":"https://www.mediafire.com/file/r0992ni7cqfzdun/JB3%252B_TRONTON_VOLVO_B11R.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/29mxdn0cq6zn83c/GHT_078_FULL_BONEKA_NO_KOTOR_JB3_VOLVO_B11R_BY_GARASI_TUBE.png/file"            
+    },
+	{
+      "id": 62,
+      "category":"Bus",
+      "title":"Tunggal Jaya JB3+ SHD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihyVs1ljsV58Eop8-_AatZo0pQbeNzaxvlGBPRYazhtBcE2CBBKd2Qp8XXptCcnJylDNL5dBoDKV99b67qr17cN8whcJvX8kkb6jUgMwWZ-J1BLxu5LbYVmOcdyMOiwUmKPqNu8Y0eCTpvTPX2OqF_WEcv7JF-JRUgULxpZx_nlqGi6-TaFgmK0Sk/s1600/Tunggal%20Jaya%20JB3+%20SHD.png",
+      "link_mods":"https://www.mediafire.com/file/g4tp5b489ec75h8/JB3%252B_SHD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/4gc25hsmgg748cu/Tunggal_Jaya_Kids_Panda_Banner_Blahbloh.png/file"            
+    },
+	{
+      "id": 61,
+      "category":"Bus",
+      "title":"Persija SR2 Hino",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg80ubBtCDnkDj-7gxSDV2rhrqN1yve-aZE30XpBLM5lXu74l9RrRuVVzj4UQ5jRMx78dCqN8CTL4RPjVElJOd9vp1LISVgTSG4ysJ3mxxm9q4RCrfKwCC-oUuq_Cs6FpRvH3MpOun4XiBR2t5_SmxWcZprGna0A9tIochUbZH0NeopjvyAWUC7Gyk/s1600/Persija%20SR2%20Hino.png",
+      "link_mods":"https://www.mediafire.com/file/oq2l4w4n0wuhctx/SR2_HINO.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/zxannetckdu6rc8/Persija_sr2_free_by_bony_bdm.png/file"            
+    },
+	{
+      "id": 60,
+      "category":"Bus",
+      "title":"Batang Pane Baru Celcius",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgppq1ba8WPjs4AolAPUyr9YvYdpr9PZFgRhLmNXp38fjLMZXTVGZEcncf6Q4vBx4oGPVBRGExTs9aXzpoLyR1YJr8CtwF5qSMV7NgWAovvsqweKEJXNpn9irwlYRx7xQKBknCEazllB-n_QZLevTlMFKpce4f0gNLo9g10iFBK_-zqdAyPBcYo5uY/s1600/Batang%20Pane%20Baru%20Celcius.png",
+      "link_mods":"https://www.mediafire.com/file/80zcgppn5mj6j3j/CELCIUS.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/4i5vr08jn2rr0u7/Batang_Pane_Baru_Celcius_Rindray_Blahbloh.png/file"            
+    },
+	{
+      "id": 59,
+      "category":"Bus",
+      "title":"Sudiro Tungga Jaya UHD Anno",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh8YHecKPlvvWhOIsEmRXK4wEGwbsZjycgA1BmLtbXK2f4PE74UgLdoPpnSmpMxcGpWd51QKXKMOWTrFRQPDkIDWKXvfvnnK1wby3NKX05JvRTUKRzNzaZQ7lkc4gs66-sIEqCz2gOMhbxxMjMxv4hCg3bRqaiQ_YzuKhRRY_jMVO37LtprUzXfHc/s1600/Sudiro%20Tungga%20Jaya%20UHD%20Anno.png",
+      "link_mods":"https://www.mediafire.com/file/nr1ce24huugm74i/UHD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/3elhebavan0t66p/STJ_Anno_UHD_Mercy_Blahbloh.png/file"            
+    },
+	{
+      "id": 58,
+      "category":"Bus",
+      "title":"Murni Jaya HDD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHZDf3gdIRTXFhk18Tqf6LzwdJfx9OIBhi9Nx-Aj3ab-tw6eBH1pxBZmunCkTO7ctA5DJUDL1wOm15LXk5TBxPQl0nvCrOzelLA_7FsbG9dLlhHpEovC57ade-gQRXoPt4vnpkwAwIWnYtRKFDwsYlyOAgjsJiFHf4P1aUeRKdgXhS9CknxLCB8KE/s1600/Murni%20Jaya%20HDD.png",
+      "link_mods":"https://www.mediafire.com/file/lprd3n8qil2oh9i/HDD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/2ivsisvrmqpvg5p/Murni_Jaya_Jemblem_159_Blahbloh.png/file"            
+    },
+	{
+      "id": 57,
+      "category":"Bus",
+      "title":"Bintang Mas SR2 XHD Prime",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjivrsxWThlRY-8Amg8xQfTtSWWIM5asZlnm-5-kqfEnOOwGyM6zuNF_suRdNXeDRIeGevOqgqQ4wl2yAyhkhlhqqc7S2kbwD4S4VF80BAHHsQ3h_wqGIlgskPqzu-L9aqjmZylE4yLs0N2J_UUu0VnZNEU4WuHIqess3KJlm_lWI7e54i-1h1YasE/s1600/Bintang%20Mas%20SR2%20XHD%20Prime.png",
+      "link_mods":"https://www.mediafire.com/file/ffl6j17oq4kt2po/SR2_XHD_PRIME.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/72cn9t8tqrgz0om/Bintang_Mas_Alhamdulillah_SR2_S_Series_Aldovadewa_by_Blahbloh.png/file"            
+    },
+	{
+      "id": 56,
+      "category":"Bus",
+      "title":"New Sembodo JB3 HDD Hino RK",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj55qOmJ-hOE_EV3rUvxHT_uS-YRpzyTkpxKef5Axt5c8-fK5BvPFk4UNbCd0o_0V_VH4qxR5djzKFRvSZVxAIp7-flZ-TqXVCY-CEAhRXEm26dn9pYqAj5yTGMOBIb1ys1ey6Nmwy3VN08I9giWbjbRM1Z0NDnmiz9Caha8Yps2d6xrOGXOXhCnRg/s1600/New%20Sembodo%20JB3%20HDD%20Hino%20RK.png",
+      "link_mods":"https://www.mediafire.com/file/u07gvm9qutqq1z0/HDD_RN.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/dm6moisl5guxjfj/JB3_hdd_hino_rk_New_Sembodo_By._Warung_Game.png/file"            
+    },
+	{
+      "id": 55,
+      "category":"Bus",
+      "title":"Gagak Rimang JB3+ SHD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs4x3al0kFpv7erRzMuPDq0csnOwVI3SLURUsUZaLOgSS4baI5-NCv01Exnn6A39KpJ99fzPGk9zPjTBfI93Pf_rRSm_OHoGLyvYItuncVNXVDU-R77wB6idf-tkuQIKSaELCd_sgvHbZOA1dY_k25hvPcuJTpxHRTA7j0PfKBfSBYKZp3PhGFH_A/s1600/Gagak%20Rimang%20JB3+%20SHD.png",
+      "link_mods":"https://www.mediafire.com/file/ep9fitoa9feg9gf/JB3%252B_SHD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/qnbfrwfwk10043i/GAGAK_RIMANG_MHD.png/file"            
+    },
+	{
       "id": 54,
-      "category":"Truk",
-      "title":"Hino Dutro",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgygZWO3KCQDJHXSfFheTX3WX4LNwiOr_3NzqGxA_PVsLPWs5GcmY_M2wLtIhAeGN--0pFt13o0Sk750KcpqGRD9zRqPdOUbe9uHaBXPd31Uqvnbwr4BpY1DBcP4XJylw-kWzD9DQsEJ2ZjR2NWEvcy512IlXIREI_WjWBoUEBeo9ROtZzXMkLI6kI/s1600/Hino%20Dutro.png",
-      "link_mods":"https://www.mediafire.com/file/zq31j6f0zca1ok7/dutro_pasir.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/ak3l2lh1oxkwdpr/Hino_300.png/file"            
+      "category":"Bus",
+      "title":"Blue Star JB3 SHD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGAX4cgULBsIQIwiFZhcJ4cfXJCMDOd6_8r0jWQ9wql-sB8U-CW76nsq71Ky4yWSYmzBf8JRLtQ6nUzJqu6KyKtaj1bLXnBmn6KtInckTWThoEaBagSfiuUvq79qv_QPfqdB1mFPDoxeWp-YFGYLQ2-CVaoScJC63Jixpg-zRNV4rO8yseLpNTtHY/s1600/Blue%20Star%20JB3%20SHD.png",
+      "link_mods":"https://www.mediafire.com/file/8z7r1k6o9e46oga/VOYAGER_RING_FULL_VARIASI.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/52bc6ikxcanxcn6/BLUE_STAR_AKAP__JB3_THR_HINO_RK_%2526_3K_FARID_TERBARU_BY_GARASITUBE.png/file"            
     },
 	{
       "id": 53,
-      "category":"Truk",
-      "title":"Mukhlas Stundut",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixk-TgK2EtIpucoUXNf7f2z8OTShPetaFmd-Cy4XTI4I8Pns5y3qcqAr9X0PS3zFjv4oVqyPZSbuntvNiuZH7_qDbOQZIW3y3lMfsTuIKGcMbKPGbQsJnpZTypOyFaWS_CgXG0-ox8hw09pWQwhArXplmhFSA1TStdfgQriTXOaD5h2R8Uk7wDwTo/s1600/Mukhlas%20Stundut.png",
-      "link_mods":"https://www.mediafire.com/file/d8gumsdn7nm28lk/canter_muhkla%2524%2524_bonus_v7_lilipop.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/7gnnq9ei2zkk7vz/alvinno_tod.png/file"      
+      "category":"Bus",
+      "title":"Fajar Riau Wisata JB3+ Mercy O500R",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhttpygFrovG1JA0x2cjya8Cy9jPBykA1s_UKlTLXJzmUcDIQTYxEF3ANIoOtFODx_xkAVWGi1j3dCqZx-ovbA0QGmeMm9mgSHV8ARYz96oO8DQTnuEo3Y8-4As00RAzjMrM2RF-gag3rz7oTtJ89j81bjExeNZwmI24NkYcHtmLC9ER7A01NBvXYk/s1600/Fajar%20Riau%20Wisata%20JB3+%20Mercy%20O500R.png",
+      "link_mods":"https://www.mediafire.com/file/ki458711ntto8re/JB3%252B_MERCY_O500R.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/mh7ebyam0lw6f9q/JB3_Mercy_Fajar_Riau_By._Warung_Game.png/file"            
     },
 	{
       "id": 52,
-      "category":"Truk",
-      "title":"NMR Mbois Gayor",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBabavNyV0ObP7eYZyzOmtEfDOZHkc6Wg0lggEDmMU5arcrhcOa-beEL8Ms26nlXhM9xfDcb5sGPbMuf5Hbn_NBM10sPknJJoslcknpEEH3IZCd6AHAO6onTzgh3p4YDzt9ws9dlUf1TDrpHYP_HdoC8OiRFGYJ0Lt5Cb6jCuyn0DXM-amhfpR4o8/s1600/NMR%20Mbois%20Gayor.png",
-      "link_mods":"https://www.mediafire.com/file/zfcl6isaqtibg8v/Nmr_Gayor.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/5t124zt2tl0ezmv/livery_giga.png/file"      
+      "category":"Bus",
+      "title":"Garuda Mas JB3+ SHD Hino",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizD5AMckqNeSSiV27RU1_KPLKqlHkkiIKQ8mS0BXEtOQMxihNkwxpkrYiPXgL7BcgeO6FGEsshrVASqXN8GgjILl8o4uZsRDBruf8JECllfgtkufCjrLnHR-2hBez3FYSBcH1irX3S-epz7MjM29ONYma0w1VetHtYCnitxOYMf96LKxQe0xkDRhw/s1600/Garuda%20Mas%20JB3+%20SHD%20Hino.png",
+      "link_mods":"https://www.mediafire.com/file/1nmwd103lfd4zvg/JB3%252B_SHD_HINO.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/oz0didp0lfsrk6e/Garuda_Mas_Samorano_JB3_Blahbloh.png/file"            
     },
 	{
       "id": 51,
-      "category":"Truk",
-      "title":"Dutro Kalimantan",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUklSVKN0CfT7aSMbFOJzvSmtH-xlDsdBrJsXMgjG26Dy3DsN-ALod3rOkHovEWXses0uuG0OX98Z7igZAKvPNve1jb2iocgqUE_W68O1qPGURSTASLK2sImn_JU8895eI5h30LhByuoJo1e662PlJkHmJiokSp-T5uRD4Q5TiYUWz0SYx-r3YBeE/s1600/Dutro%20Kalimantan.png",
-      "link_mods":"https://www.mediafire.com/file/yx9ag01wyybvjio/hino_dutro_kalimantan.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/mxbegmt0kxv5sc5/DUTRO_DUMP.png/file"      
+      "category":"Bus",
+      "title":"Dewi Sri JBHD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinqFPs5jt0EN7YYbwqaz-wypm2m9zWL-ca8RdlCruwZBWmWt9KujKT0LFXJorL2ZXh07A3NtdcB0wXzA4v7jvtFgmh-oO_UujuZNUAzpplel2cNGuISe8HE951Nhdr_yMTFcXg2Iux7QEWqC_CoPvrcicnG54pVl64IU2y5WsASrzN-zs94Gbe8ik/s1600/Dewi%20Sri%20JBHD.png",
+      "link_mods":"https://www.mediafire.com/file/tr0ornmmezdtgm3/JBHD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/6az5fax0rfrp5ok/Dewi_Sri_JBHD_Blahbloh.png/file"            
     },
 	{
       "id": 50,
-      "category":"Truk",
-      "title":"Dutro Sulawesi",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdQ2Xh3E8BP8esgPRKngd9YH7NCUvmEF-UTmhuaRktiwSnEKIeZn1JKish7H-ly-K1d4pjrKDM-3gx-t7Mpgf9dxBi5tDXlF3cFPiHsuAwgj1RB0CvPa0olBrqWlCuc2d_ydejpiy_PwPJWxYMJRX5bG9BuOEdO2NMsC-36RI1zopYx6s3hh7rrjw/s1600/Dutro%20Sulawesi.png",
-      "link_mods":"https://www.mediafire.com/file/6c00sl9jo726g66/DBS_PIPA.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/sfinajabpttsys6/IMG_20220719_125854.png/file"      
+      "category":"Bus",
+      "title":"Handoyo Nusgem",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoUIQxrwhmZtXIJCV68mIdLubcL-hHCTSyT83PBSB_HRQ1BiO9HD-PGfGB6zC7jWY1k4s4lpHLVMF32XgLgBA2ifvdhHpsZ3kQQOnUO9HZhWdiGXpZrHcYpoLK8A460sjNwgIOR0IY1PTrtfEOTVztqalUw7QMUXTbtuR8vc6eqabIJZJWeuyVUKI/s1600/Handoyo%20Nusgem.png",
+      "link_mods":"https://www.mediafire.com/file/xxe7vsubcia7pae/NUSGEM_SPION_3.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/cuz4fw573nzt3jz/HANDOYO_BY.OPANGPEN_GAMEPLAYS.png/file"            
     },
 	{
       "id": 49,
-      "category":"Truk",
-      "title":"Umplung Kayu",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbZgGH_x4jqKTWTbdGFp3zIMExh2zxlW6nQk9RLCOJpwM9sl--BG58w8dNVPBunXCvWa2opXJCg_2t_VQnjB6oaFQah0eTBhVclm99OSeAlSUnjFRHUevCT3F0OEFsNHLVeXuX8ySQjBS_MuZfTZl0EcsdHuc2JXyBbVmTbSq2cnoioELGukf2bZ4/s1600/Umplung%20Kayu.png",
-      "link_mods":"https://www.mediafire.com/file/w1el6l3llynxdz7/umplung_kayu.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/vgkf6lfk5cgdtlt/Lestari_Logistics.png/file"      
+      "category":"Bus",
+      "title":"Persija Dream Coach Tronton",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBlvC5FvaDoLXZtNgrOHMC1Ic0wQ9mhwh5fvTCs2elHz7yNs1cd3pHPe-Tteuy_19OF7f2q-Yo31alBt49VjzyQbGVByOtOnG94FDo8A_bzM85T10cn6sush7weuw-QlgWR6hk-1JkqRba4_sNeUIAkBsupONQsLsQY6BAGVROcxhDpxTJPzY0RGk/s1600/Persija%20Dream%20Coach%20Tronton.png",
+      "link_mods":"https://www.mediafire.com/file/zr0iv2kr8buxxj1/DC_TRONTON.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/3rsevl4k2tp0gjo/Persija_DC_dop_by_bony_bdm.png/file"            
     },
 	{
       "id": 48,
-      "category":"Truk",
-      "title":"Canter NMR Laka",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuxA41lRfKYgKHQw0SpnLXA0zMk2L-6aN_Ee1aAeg4zMOk9F-XBNq0ARTgEvDDAEoQX9mzb1HhLD8bBpXVR0nPMgOdPHNII5BkQAX3wUONeEbMwWWB0p6iq3lECIpPv-w_klGxiViWn0HYZezTz8W-RSp7a8ZIG4BGZilFJxNXbNbdwxClyxAEmbI/s1600/Canter%20NMR%20Laka.png",
-      "link_mods":"https://www.mediafire.com/file/q0gcbrb85qt8huz/Nmr_Minimalis_Anim_Laka_muatan.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/3kn62iwlzmcokok/ISTIGHFAR_LAKA.png/file"      
+      "category":"Bus",
+      "title":"Laju Prima JB2+ SHD Hino RK",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-_aWlizRzRG2KG0xPDv8UWPf8zKCDeaaoPnIh-Eb2uKv5ISyRQDjQoIdg5JRoS-iJHzOlp0myQQlBkQF6VNhuZppfdiqrP8xA588twyqDjnniHkg13KlWpOCR2dJdr92jSSqxfniDRZOKr1hYS0mVXfiBYVOXQ6m37UPjcpsMyuM_KyFwuETaXi0/s1600/Laju%20Prima%20JB2+%20SHD%20Hino%20RK.png",
+      "link_mods":"https://www.mediafire.com/file/uutijpfr98wgt2s/JB2%252B_SHD_HINO_RK.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/hvjqd8l31yjump5/laju_prima_webes_57.png/file"            
     },
 	{
       "id": 47,
-      "category":"Truk",
-      "title":"Canter Anti Gosip",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZth-fcpIjr306UFJ8gdWlffoSeAqlvzKCjM46qXxwfAjGj_gDGler4gqrlXNJRNlTsGmc8QihcOiFUWe6w9XPQjJF9_2BKkNPyF6Y-fqiaFXKifWbiPmRzIumKxZVRsbeAYfU0H5VXxTqRlg_mRmnBupH9fQbS9lCmKKb4oaM-KT4gM8fDmQX5cc/s1600/Canter%20Anti%20Gosip.png",
-      "link_mods":"https://www.mediafire.com/file/lqg9yk0fc4jy1ob/UPDATE_CANTER_ANTI_GOSIP.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/snf4yzvib8a7stx/IMG_20220730_082924.png/file"      
+      "category":"Bus",
+      "title":"Pandawa 87 UHD Mercy",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclFTMIbO7TkmR-prPTV3PpwZg0SNRBFoBZRvY0rQtxMrnAuoQy0iIpgZKS2Lcc176jHAV4ns3GxDm_KS1-KH1av_SwmPS0ib46VaGujK4IoOtc-gvzEF5Z4sTi3xkWry_5gcdYuKsG_uLuvoDzpgsf0v4waXnqhvyoSGPuIjzJ51VH1PHAkMfJ8g/s1600/Pandawa%2087%20UHD%20Mercy.png",
+      "link_mods":"https://www.mediafire.com/file/lhm2s9bhqw21i32/uhd_2542_gen2.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/jwnrndc2nhra0kz/Pandawa_87_UHD_Mercy_MDC_Blahbloh.png/file"            
     },
 	{
       "id": 46,
-      "category":"Truk",
-      "title":"Canter Mbois Polos",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6_BsOLHMclgFi-G8gPqxkHGO3ozuF4kGVNsfm7DXSrG0itfkDoERZAioTbu6Rl7HMaR6pypiVbMZi6DAcNahpHmRU71PMoZRlZW2ASBQiWNhjT-jMmpdd6ll9NANauWP_FreDacP_TD9kSTq1RgBRsx4Ctk07YKbpkNxvvX8Z9fyJQU1GLGCpd2A/s1600/Canter%20Mbois%20Polos.png",
-      "link_mods":"https://www.mediafire.com/file/3803mkcyfhowlh7/CANTER_MY_FRIEND_BKJ_Kontes.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/w2vln4y0wiprp9h/IMG_20220807_060540.png/file"      
+      "category":"Bus",
+      "title":"Kencana JB3+ SHD Mercy O500R",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEXbZaAZ5Zy9h-4Kj-foLu9lNoqbeLsizoFG1RdecanJboTIJPnD6IrRtJeBdKAZZ3ajGDRJoe5_BIw54fu_2HMQ0cjir4wOGFwxaeLnTVa7AzVO2344hik6gNF5ehplMysAdwAN7wBtW8NZqPX2HVElLdTwDQhD3Dgog68rfnbLfcEgCZyXQ2Nss/s1600/Kencana%20JB3+%20SHD%20Mercy%20O500R.png",
+      "link_mods":"https://www.mediafire.com/file/ft26u47pki3k4hs/JB3%252B_SHD_MERCY_0500R.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/oogthd0s3kafvmt/KENCANA_JB3_0500R_BY_DPC_MC.png/file"            
     },
 	{
       "id": 45,
-      "category":"Truk",
-      "title":"Ragasa Rainbow",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8rm8A7TEB9K8hA6619EsatmryCnyw5A0KKayEcKDTw_xE6Zf6pziEYqV6Kje7_-kgCNOovHlBxzgCl2fcEVSNOx-bG4OPfwI5NU5K7y2dAr1K0femDsEChAK-7VUFBSZNBmgPKRHogUwTpqOyNXk8OshJjVLoCD04L_JZ4Amxb7tGajELJ5MtIXo/s1600/Ragasa%20Rainbow.png",
-      "link_mods":"https://www.mediafire.com/file/xcqqdtz4ad47qa6/RAGASA_CANTER.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/ggwsy0ng850e3fc/IMG_20220807_034826.png/file"      
+      "category":"Bus",
+      "title":"Bris Trans JB3+ SHD Hino RK",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfgeEQBhKM0Y54lYD6lnSQdOpaXKbcmigg9wX-M1tgH3tnmWUi9PmE-6JU7CWIRVfcJfKowMAlQeK2wjz90tFUMDdZD462Pa4FPBsEDACo7NiWkqzn4yslgDBrSKYY3e6hwCB5ZvioHbkSrF3i52VAGeyzW_NYxuDScLKuv2zvc3O9i5CkP4Qo_kc/s1600/Bris%20Trans%20JB3+%20SHD%20Hino%20RK.png",
+      "link_mods":"https://www.mediafire.com/file/mdfcuoy5vm2qit2/JB3%252B_SHD_HINO_RK.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/e61xirhlshmov4q/Bris_Trans_Tuan_Muda_Banner_JB3_Hino_Blahbloh.png/file"            
+    },
+	{
+      "id": 44,
+      "category":"Bus",
+      "title":"Budiman JB3+ SHD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9RPI4f-1RUosTLINA0QWXB6DT34ywrAke8_Xh-Wpfq8EOZfmD2YhzYDQyGanS16tq9R5ZsJ-uQTVILk2RqSiilSsiMB5L0NIQ81X6xjzntMqu9YcM8btxXLWB4nX5x2bS4YsSWYcBD3viWX67xWXpIb_WJV4KOfjNZdUvoRSHNz6NuOo7QdlrXg4/s1600/Budiman%20JB3+%20SHD.png",
+      "link_mods":"https://www.mediafire.com/file/rqwtatb5jdzmzcx/JB3%252B_SHD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/cd0hty1ascipdxv/BUDIMAN_THE_DESTROYER_NEW_JB3_TERBARU_BY_GARASITUBE.png/file"            
     },
 	{
       "id": 43,
-      "category":"Truk",
-      "title":"Ragasa Box",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXdP5wWAA4IgAgjIFSEN4ROY1Bhv4LX3uffnRNdP0KRpxdRqPRh6WTaWDOG0ad3HTBxbLp3OAmFZ8WsiaD6eW4-UwlgOWLQsQU9w9sDP1-tcxf426JQI8tEPYFX1myFVyDn_UEODXbbMlYWdoAKOgJ5hYf2DI3pfnDgynCYZSGtTqt2hWtN-gNRbw/s1600/Ragasa%20Box%20Minimalis.png",
-      "link_mods":"https://www.mediafire.com/file/2yrt9sqdvd06g22/Ragasa_box.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/0ysyzn2cjevdono/IMG_20220716_125917.png/file"      
+      "category":"Bus",
+      "title":"Transport Express JB3+ Scania K360",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE_pruzddhxXRQenDgEGPX_9-oFUYD3jTiLSN0H-dHmjWNukWUbh_DUIJ3fk8GRHPV3yPEjtrU9OrTDwzhexkBRk7BZVVyFJirW_kcPQyOPHc4ZxONx-sCdqceiBo_S1FnIDuyY31YsasaJAI7fq_xMqB5EOPPWy98Cbj8VvaGK7CWhiRRpYheSlo/s1600/Transport%20Express%20JB3+%20Scania%20K360.png",
+      "link_mods":"https://www.mediafire.com/file/dbvkj2wvyq5qflz/SCANIA.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/ygzo85g5nol4zoj/Transport_Scania_K360_By_AM_Channel.png/file"            
     },
 	{
       "id": 42,
-      "category":"Truk",
-      "title":"Umplung Kontes",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNRjRoVIPIxFz5IHUafElWfOrvagvBtSSTpgtBkcjI-GJnwIOssNbVCRakrjdFoMFmLMEyrAMyoZTt23cQka25IPbnk-ff7lskjtRjgXXy2HmRhrnF88NM5S6bqcX2XSjN9OYGtEKGlX_H-y0VR3Tdfh6gpZLbgCWbwzSwt-_1kh52nJsitEu5_MU/s1600/Umplung%20Kontes.png",
-      "link_mods":"https://www.mediafire.com/file/f1gi06ddpceup3e/UMPLUNG_SELAMET_SEMUA_ADA.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/l0y88ct1s74cuvm/IMG_20220808_054604.png/file"      
+      "category":"Bus",
+      "title":"Ramayana HDD SG",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBjEp2nTpXA5G3eouTiyjc-SQOiISlpNGRqYLco881xDxGHSoF-_3OqGBEkvaCl92-LX-ZeP6tcV1nU1wNb5rLzCeDdkb2xKghVGWcyvTWHFWdj6DhHbi6r3hQn9bRrG_5fISYa2Mz1Y_lV3WNBBgmDaCd9-ViojqUzbp3sI3ksXBgThfWYvhENcw/s1600/Ramayana%20HDD%20SG.png",
+      "link_mods":"https://www.mediafire.com/file/z8p3rpeb4n2aww3/HDD_SG.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/1fmfqhaa3fplbrn/single_glass_Ramayana.png/file"            
     },
 	{
       "id": 41,
-      "category":"Truk",
-      "title":"Rebecca Sayur",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTXChJHGGR6trNUvch8Z_raj0eaSEAsdPswtwm2jO6T_q7gnAIrTgobP6dHHwgvbOWWPNkDZ_MecUCf_rsRO33QhYXgXASdhoQ1FwCb3U_0nlWXZa3vOAT2Fha1cbTmufDWdBw2vUJ8HcnsMjowwgf_4-I9CfyltMiA6e-xb9UmKHlXfnJLV3R5U4/s1600/Rebecca%20Sayur.png",
-      "link_mods":"https://www.mediafire.com/file/7pqytgmt83mk1hy/NMR_ZAHRA.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/hvbye6ns4o75hcn/IMG_20220721_200132.png/file"      
+      "category":"Bus",
+      "title":"Sudiro Tungga Jaya UHD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTixOOhCVmro2ke_izbtCJ20iHkmlkz7q0JFB33fzfKIGDLdVAcIISKXzanxvVF19LdQJ346ngjQI4vkrGKouIOr2maEtp4_RPc_oWDMOY8658aSPu1YuAIxoXPcS7r9W5jtd2Ep7BamxCsKaonLH72yLhs2ZlbUnNMHyQVzq2eDwUrsdEfOjdzu0/s1600/Sudiro%20Tungga%20Jaya%20UHD.png",
+      "link_mods":"https://www.mediafire.com/file/esptdbyssuaq5e8/UHD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/o2hqlm7ha6wntvv/STJ_Rubya_098_by_Hanafi_Hardiyan.png/file"            
     },
 	{
       "id": 40,
-      "category":"Truk",
-      "title":"Canter Quroz MX",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuso8x-LUr54sAXe2rRhWSgV-ikfGiHL_yGE8XnSyTB9IjvjVvLjw6NVhGl565QSMjsHmI2ckGLiioX82EWSLC9BHp8qSASVNA2d5EJf_osLuXajByzYVyvc3HUvkYmIRBfBIW6imDKH7R0VGQ96wgnG52AO7B7ZL26nkhgN6ENTPgHGeFlV8Fe7E/s1600/Canter%20Quroz%20MX.png",
-      "link_mods":"https://www.mediafire.com/file/ac0t5wddem8hzif/CANTER_SUJAMA_MALIKA_FARGOY.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/fk2kxxrongsplpb/IMG_20220724_124922.png/file"      
+      "category":"Bus",
+      "title":"Sumber ALam SR2 Hino",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-s2_n3RGX0rH6a1iMi_bnTpNSNEvjEf5GDi4jQ9ena_fFk0oaBbBJVLuhY5IUPCUylScmH2DuIyc44s5RATCzEOCUZ6n6CPi4A4GZvBJfvA6amlocPHWzozCgYwviblwYuknCLcAftoBMbS6yxtmtvH_m_0hEH34XHCWLc7BlxUuL8ioNhHLdHZQ/s1600/Sumber%20ALam%20SR2%20Hino.png",
+      "link_mods":"https://www.mediafire.com/file/k3d8bm6hpu94b42/SR2_HINO.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/l1kc7kydb4bm80y/Sumber_alam_Sr2MN_By_krisna_Putra.png/file"            
     },
 	{
       "id": 39,
-      "category":"Truk",
-      "title":"Canter Umplung",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ14IomaxZZ3j579bxi1yrUbeQ_ijJ5OctaHzDFAf9lHqTICZy6-Rz6x7oyONI4lnwpFZSRf8xMhp3LncMduKEoZFX4IuBMN3nSncGnwGCdFbaBBZWM39sn8BL0lTDxF-mC7Lm1LC6Kgvg2UmE4Q1vJk_xSKL60HGuFfyezmZBsYFbFJ4XyoIEVjw/s1600/Canter%20Umplung.png",
-      "link_mods":"https://www.mediafire.com/file/pmdsmazezzny76s/UMPLUNG_KANTOR.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/q2xsk9f5p0rw6y0/IMG_20220722_102946.png/file"      
+      "category":"Bus",
+      "title":"MPM HDD SG",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq4bMJFrv6IDYYuAjD3n21G5z_pR1U7Jguqao5YGSbnlNg5PfJ1Sp-GYdUgVkemFho2VPfx72A8v01tU3vMYytD_psFiBfnh8q48FJZjaBJWMhaT3N037L1Pb2I-_kDkkbopmtzMf5PijBNnAaM_aePtJjxNHdBeEKGn7tuZMsgIvbqhNmm-8nVIo/s1600/MPM%20HDD%20SG.png",
+      "link_mods":"https://www.mediafire.com/file/h0ou5iy9uwp83v6/HDD_SG.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/wk2bm67o6fir8h4/MPMbyNURI.png/file"            
     },
 	{
       "id": 38,
-      "category":"Truk",
-      "title":"Canter Minimalis",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzghl4UvfA-BlyYrR1eLd095qZzS6be2NLORxppDUvqdFVrObutIjOhTLSyYxt2xfArr8V43sTEiqVrm0_7h0lShPgp-EBJK0i-kHO7oxxuH95z8YfHfOX4d355WInRBFpfR14qOjY_tiQLqn9d8VkQs7Xi83oZW0XmqpBmbgr96Zbb_gA-bk8U3I/s1600/Canter%20Minimalis.png",
-      "link_mods":"https://www.mediafire.com/file/bsylfbs0ibwgdg9/Wahyu_Abadi_02_SA.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/hufjhhiiasiqdlr/beureum.png/file"      
+      "category":"Bus",
+      "title":"Medan Jaya Panorama",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgntIID9pxO74rKbTWbKR1ACpWcO6LGxfkIW81SxOI13pKs0kjWbCkO5ERo37Q0eGU-TU-laN1acPHVtERKW3b1BScg3hYhcWL-f-JvOskuI6QezBy5jCU1fhx_h2NG442rtqZw5z-M-JSkM9QwGRrrasBZrhkEnF7CXlf8bb-3zTACXWNRlib_GU/s1600/Medan%20Jaya%20Panorama.png",
+      "link_mods":"https://www.mediafire.com/file/610ibgft4lz3hno/SR2_PANORAMA.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/v9wf2ds2k6hbnyf/SR2_PANORAMA_MEDAN_JAYA.png/file"            
     },
 	{
       "id": 37,
-      "category":"Truk",
-      "title":"Canter My Friend BKJ",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglfK98KC0qP18rKlcP5uLLIyA3DPnTPKtd6MOejc7D7k3vfjboVQDffFaq8MHc0lIULhsIMjU17fdrTFUmDFOT9e-GIvDO4F5Y0UNT1E7wdjT_CaVf_I9hfMmThPVyItwoZV-rjaTRDuHU6bJfZuvonRrQu2tHLpp1yhemGxm2CN7247_ylcneEwc/s1600/Canter%20My%20Friend%20BKJ.png",
-      "link_mods":"https://www.mediafire.com/file/jriruuabyb1x3eq/CANTER_MY_FRIEND_BKJ_Suspensi_Real.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/3zcga2hl1l1sny1/Livery_Canter_My_Friend_BKJ.png/file"      
+      "category":"Bus",
+      "title":"Juragan 99 JB3+ SDD Voyager",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwqq6GgNxF8ZsaNaFxp3hHc06q1o8Sdd8zAol0o_zaesxT3L4LJpDYlTshaMD83eHPeVTXgIFm9Co4d3VMU0jZts5YkfYqoUH6CpMhOvO9j3TrvJ4UMmluOQZ4QQeirOnkowyl9d6TX6EJqT_OVq1DyXL8kW1asWr3PZu4-VwOYp2N2IFNc0A8_UM/s1600/Juragan%2099%20JB3+%20SDD%20Voyager.png",
+      "link_mods":"https://www.mediafire.com/file/czj9mn6ird17652/SDD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/1im8ovli7mbttah/JB3%252B_SDD_Voyager_Juragan_99_By._Warung_Game.png/file"            
     },
 	{
       "id": 36,
-      "category":"Truk",
-      "title":"NMR71 Racing",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR5MbcBLjjZqor3Ked1sVGIfbIVvFnOFUZmEIq-h-u_1KxzwNKqxMU2zfSIBlPYzWBpFvgiSbAo7KtIzFqwrXfoHqQsEBQ0p6e17Ns1BOch9XRjvBui7p8Impey9QGLwy8YZm-18fE2wUoaBPXLKFlqIW--VMyBA7ySV8hxw-Pi6jTD_4efvGss-g/s1600/NMR%20Racing.png",
-      "link_mods":"https://www.mediafire.com/file/nwi3ixt7w9p03u8/NMR_RACING.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/jlz2eaf0658boy9/IMG_20220807_114151.png/file"      
+      "category":"Bus",
+      "title":"Fitri Trans Girl Fighter SHD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFX4Lq0zLTfQnQBiAwnFJPRHsi4CPp5ikWJjIY06038hDNy8JVlnrwwCavEc8-vwY0KBknQMtQQvJ4dogQWHUhiF1XfhhZ8gSfewyJi0NyuOyYBW7rb9f05GuP2_wLahYXWeyhQnVsIXQz7qu0_nK7krx7dqosVtGDVkHduoIVoM_unrV0OfFvpA4/s1600/Fitri%20Trans%20Girl%20Fighter%20SHD.png",
+      "link_mods":"https://www.mediafire.com/file/qhftcbxx1z13poc/SHD_SPEED_BOSTER.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/l3737ju55nt89wl/Fitri_trans_girls_fighter_by_Hanafi_Hardiyan.png/file"            
     },
 	{
       "id": 35,
-      "category":"Truk",
-      "title":"NMR Javakids",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjQAuQMP1aci4PlXBuhb102GNxI_96JOwlpQFABQYdshFFqW_h8eZ7Yv4Oonw6wCXEqBQ3k_071njHvU3h8FEDChnxbJWuAX4BU8jN6tB87h6y_ZCEbb6K9r88xf2ar6hnbM3k78ps_sULlDWS8hdDzU7iyd3quc5WbtrGnsQdD0UazmGKn5q-fG4/s1600/NMR%20Javakids.png",
-      "link_mods":"https://www.mediafire.com/file/jk06udu21z2xij0/isuzukajicrew.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/db6k9ujtle66kb5/NMR_Javakids_Kotak.png/file"      
+      "category":"Bus",
+      "title":"Kencana Avante D2",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_VSa0JDE5T7LA13j7phf8Tu9Wk34xryuUfnrTeWr5jlTfCE8SaNEtiV4aucjD5Kmk4AJzPR_0v4Z-6drV99D15N5H81t7JLDrrO4BtLFhnzj84GuliryLQZLklnqRQduT4lbCTPxPXiuOS21id0-mnf7AZKR7frr6Zw0R2xpPdHBtVezsg3YfAA8/s1600/Kencana%20Avante%20D2.png",
+      "link_mods":"https://www.mediafire.com/file/ulakyr0hu4d02aj/AVANTE_D2.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/5ekno805s02k8ug/LIVERY_KENCANA_MOD_AVANTE_D2.png/file"            
     },
 	{
       "id": 34,
-      "category":"Truk",
-      "title":"NMR Mbois",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIgxLr-Nh5zS0m2foxUpes4-HYxVG28syOGBLMMRc3sJ7lwav-wFMwteu9Lpxnj76t0uU7VXyJqQos3oeIhVx0h6nx0KCeTjTmzjFzTmWoLOywiWuLyqH9i2uVvC6ovO7JII5jxz_DBeDiy7QQIvdpyEfJtAG-b3esrxSadqjFcYXzAnhEWi2PQHY/s1600/NMR%20Mbois.png",
-      "link_mods":"https://www.mediafire.com/file/buf0ubhwudaf286/NMR_RACING.bussidmod/file",
-      "link_livery":"Null"      
+      "category":"Bus",
+      "title":"New Shantika Dream Coach",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiASW7IziHh6Bqlts_tn8R_6ac5QGaPRCUBBrF_4J9lPu1WypCSkrlJ-aIVK_08HSC9obrEUiezgciy73x_QjuI1LW-uRyeHFk-NnWx-Cwzi9wqNwxinT9jjQHj7H60PFQV_A91TuVRJ6x68jPTgIiDtT8NpdW5UIJ2lAeo4b9td2d_nCC-nXXb5nc/s1600/New%20Shantika%20Dream%20Coach.png",
+      "link_mods":"https://www.mediafire.com/file/r2jtbztajncqnkl/JB3_DC.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/0xlzd2mb6e69jwo/New_Shantika_Dream_Coach_Blahbloh.png/file"            
     },
 	{
       "id": 33,
-      "category":"Truk",
-      "title":"NMR Spesial",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivYOrCFn9tUjVpa_-Bx71HFMWNwOdAf9IWpB8tK0RBPkU4VUBd8z9ZiTLHxD7pC2UOMRjBaphWEKQMe-uhoVGbf_0iTQpis_tFXvmYHdLTiIqrLSwOxyllGOglkK8RQ5Bri3kENlwDpI_AZgRRYglxIDjjoYiYzdg6vHLk4conIze5ralNWU9Vl5U/s1600/NMR%20Spesial.png",
-      "link_mods":"https://www.mediafire.com/file/szbdaxbblmz3hdr/NMR_ZAHRA.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/0c4svem4bmtrf22/SEGI3_Reso_4K.png/file"      
+      "category":"Bus",
+      "title":"Falisha Gronk JB3+ SHD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijWmXl7OMZDd0oIr4mlVYwlrdSQObMhydxRLIAPijSkDzZKuLBYCMsXu2lPpy1o9jfYFa-PPz5-WSRIU1zk0uHfxPhvZJCqb24SJ7EHSC1zsZEE-ssvp0k7bnVdFZfm8jHdIm7ZUQybfQ4rEXYELgfbcjlGM33wyneqHDPqharEp_Edr60IaB6Y9A/s1600/Falisha%20Gronk%20JB3+%20SHD.png",
+      "link_mods":"https://www.mediafire.com/file/66j1i5x7cd8btfv/JETBUS_3_ORIGINAL.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/vplofofw4a674v8/MOD_JB3_ZTOM_RSM_FALISHA_BLUE_KIMPROOT_-_GRONK.png/file"            
     },
 	{
       "id": 32,
-      "category":"Truk",
-      "title":"Rebecca Valesca",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFKs9u4VKvcfYVEiAiBHEE30HjxA6yXUYfMuMQJBVXZvtn1l7G_IqOE_CRu83NEjd_NIa80ULvK3FTfKsi9XowBoCC0cCkO3M3AsaA_KBpunUj4KUKwBo3Fw90TPpygvFahxyi3TJJBCW5hhl2fuBof1nldgHTTbclXQn6KKvR0eZPt5UbtNvkBiM/s1600/Rebecca%20Valesca.png",
-      "link_mods":"https://www.mediafire.com/file/xxoffilmlrx6fis/CANTER.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/1d2stt1c8nisecv/valesca.png/file"      
+      "category":"Bus",
+      "title":"Mugi JB3+ SHD Hino",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikWZzcQCPhDeTm6axN3L_4_IlbxEWLmqv3k2IZnrUHzOVB51Zeyw44IIyMsQ75UH9pPAnWqUTEO4ljsiWeC8SU-hWEMJn8ckAIjoP02X3c95oZDoQF34QEsQ3JeKFej79HS26-AnJcVY7D5K8OKtCOVnB4TVvtpSCvV_zkqf7XWGqQFw6j970pdxs/s1600/Mugi%20JB3+%20SHD%20Hino.png",
+      "link_mods":"https://www.mediafire.com/file/xnnqmm9lnf0gt2w/JB3%252B_SHD_HINO.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/xkyecjxsiua26q5/MGI_BY_JODS_TV.png/file"            
     },
 	{
       "id": 31,
-      "category":"Truk",
-      "title":"Canter Towing",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgswqUQE4DPuIZEJp11Bayn97uRVPqjniGPvoZ2cFEpHldL728KTKAJxUEh3pJaltvtvo0NY6hmgs6pNErSy2M8bJihDaxB5QP9Tx2pzwNNlpNCmq08-6pQc3CSt1KsVcVVX_2IiBSRXSrgjSQ-eVZibjUmeIUrJO27G2k1-vcJkMFioBM_NlIgOA8/s1600/Canter%20Towing.png",
-      "link_mods":"https://www.mediafire.com/file/nda4copks5upvve/TOWING.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/o2ywwbkhxmfafep/Livery.png/file"      
+      "category":"Bus",
+      "title":"Merdeka JB2 HD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnnQBZartwjpE9EKEInrB_hyRBaV1R4z6L9v4Y1baa6T2f5yt_fWp6slGfMETuXP9uMNRiNypa5ROXHmqMfBvKROirMHM_k79TjJ1FtwcUo0vQHgXRmb4vmEa_8p6LppL2X43P1YCCN_eYsZTqO1NCwjE0DpKEKTKIBxM5vAGb7xlSSr48YT6y7dA/s1600/Merdeka%20JB2%20HD.png",
+      "link_mods":"https://www.mediafire.com/file/indorf81h7jazvj/JB2HD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/075e6gou1e1x0kf/MERDEKA_JB2HD_SETRA_DOP_BY_MAP.png/file"            
     },
 	{
       "id": 30,
-      "category":"Truk",
-      "title":"Canter Herex SL",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9yPM6xivkEPKYMaN1Xc0nduUXlSPkwO7ME4xAhb7S-GFMwXAbtl0bljvxfuuVzoQzQiH-fb-8v5sx9p-gAd4wQvo1cRP6IG1T15BsRVgGGHio5MOh2wHHaHdSwqCQGz1OMQorg4DLNtZPGSiQXDbi48ReV84Wqzj6rAEU0qUFk_CZN7JllPjzKvs/s1600/Canter%20Herex%20SL.png",
-      "link_mods":"https://www.mediafire.com/file/tvzqeoqe29bq32d/CANTER_HEREX_SL.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/vb0m6vmd13sjprf/CANTER_HEREX_HITS_JSK.png/file"      
+      "category":"Bus",
+      "title":"Efisiensi JB3+ SHD Hino RK",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid6lRitG2cqnmNWjAkxaPwZjMMcZ2XPc7tVaxyWT0LxtPjMJOyin7fenQc_nOd1j_zCSpHJt1HHhHVWrVdxaICGhMCR9qKduSe-M4YQr9BFITEQvJNvE50OtvS2Tna_CSq_qVkjvzbqX-wgLbTbFYy7ib-4xojUthpteF9Ji01jcrc0xW2iwf5Qdc/w117-h110/Efisiensi%20JB3+%20SHD%20Hino%20RK.png",
+      "link_mods":"https://www.mediafire.com/file/jcgbhcz2tkaofl4/JB3_SHD_HINO_RK.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/mbk0mb5b56lpsu8/Efisiensi_impala_Webes_57.png/file"            
     },
 	{
       "id": 29,
-      "category":"Truk",
-      "title":"Canter BKJ",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj475CUU06vH5WmFQcLOz-ndwSQXCSaCyyINw32aH_wcQvVD0pE0g_BlZRcvAX2ov8BSsgkaFaHOeM-ZuCwA3TvnszA51-wEWQ8AizS1IdQcM5EB6lrgEPbGna22s-Z73fUnpJEZuJxD0H2CTWii0Qc8owujNrYH8kzsoKEVGztU3EkU8bGbVqBMNI/s1600/Canter%20BKJ.png",
-      "link_mods":"https://www.mediafire.com/file/3803mkcyfhowlh7/CANTER_MY_FRIEND_BKJ_Kontes.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/lmn2n9e5al3h6xe/LIVERY_CANTER_BEKAJE_NEW_FRIEND_SEGI3_4k.png/file"      
+      "category":"Bus",
+      "title":"Persib SR2 Hino",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwIssQVX9t3O5YnhzX-glICiuJmeMOGRloJSoiAGuEABVOE5uC9w5yShGwYk7u1JG8uNRRV7NtTLDHQd7qmWvJ_2jq6CXJNv-HExdzOm4aCyTK5es92j89Nkyf_tOj6YKla6ORehiOuqehfUMpJyEp84Ze3IycEeqIoV_46IFlxbx4CiiEgKkxbUI/s1600/Persib%20SR2%20Hino.png",
+      "link_mods":"https://www.mediafire.com/file/d46vchd4x6u4zv1/SR2_HINO.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/o2dfy0m5i5okdih/Persib_black_sr2_free_by_bony_bdm.png/file"            
     },
 	{
       "id": 28,
-      "category":"Truk",
-      "title":"Canter S5 Muhklas",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMbczO8a1W7tsTqtr_a5dQ7Pfd0HOmgXw8CQfowlUaJ_DJLnOLpLz46VtRIoc0ZcpaHshSa3sJHXu_wL7SYDGzoh8lgCaj5QuFQgjTds9f5fZkJvxS8eGRRIubHKRYfZfDEGNWIvCjM2_F1w-IGggxA_FfE5MHOsQJo4kSe8inxfCSiIGN1c6ANpU/s1600/Canter%20S5%20Muhklas.png",
-      "link_mods":"https://www.mediafire.com/file/fkbvii9dmpzlvle/%25245_MUHKLA%2524.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/6lad1b5k3chop5l/GAYOR_Reso_4K.png/file"      
+      "category":"Bus",
+      "title":"Haryanto 082 Bronxset",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL14M07kCB102RuxDKWfCLc2zJvI6A0hi49ujqc4_A0l2Sp75ZjPF0qxPzwkDQ2Vn9f3krpJg0dJ134tjYE52WBwPpL7jnffITe0nTzpSNUBIV18BLwQYrk7-M7EtCgeg5uTKUwZ2LSiuVJz0SJHuqTe69fLBftqSvKp2uj45pkhisLA2ESZPjRyA/s1600/Haryanto%20082%20Bronxset.png",
+      "link_mods":"https://www.mediafire.com/file/2z20eso7nkgwbm2/HDD_murni_jaya_155.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/majvldu26rpi07x/Hr_BRONXSET_082_by_Hanafi_Hardiyan.png/file"            
     },
 	{
       "id": 27,
-      "category":"Truk",
-      "title":"Canter Rohid",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7dUq4hYXh5aueHzaG2ZccEcyhcOpZfR2gFpGJlo-vwve-GciXiVLfAf4u65Kw96TvR9ZuAu_V6voQrpRqWWvSxvCsNcIqFtjtaWfCQebroKCbywVMZtYtpI-mc9rMOpwIVhRq2ww1HSpwZdAxnNKgcfJ6XC3ENYWQhuRdmaXHo8TbYQfkWcQ414Y/s1600/Canter%20Rohid.png",
-      "link_mods":"https://www.mediafire.com/file/ocz904i8swgve90/BONUS.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/6jas5k63mgck2zm/KOTAK_Reso_4K.png/file"      
+      "category":"Bus",
+      "title":"44 Trans JB3+ Scania",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiNZ8gAHA8zlfCsmH38gs_qXhFJfleJJ0cRga9PMbLdiS7RXa_tWDZGqftJ95Kftg9iP3Sebuv6b0Pt5dTt1HKk6iWUVnc9GZzbxq6qpIwSuimF5Zax-PWuoytVgWzfFkITt0I9yEOePuYQcoX931CEh13QRm6S9YDXL6ztIGBOqfKkrbzfpjt170/s1600/44%20Trans%20JB3+%20Scania.png",
+      "link_mods":"https://www.mediafire.com/file/kutnyksixsqjiwp/PHANTOM_44.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/fvuoatqj4oer2n3/Aston_Martin_by_Hanafi_Hardiyan.png/file"            
     },
 	{
       "id": 26,
-      "category":"Truk",
-      "title":"Canter Abygaille",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinVAyK_ngvbebn690QYPZzD9B4b4IGC8B3GaTkGdVZkC4_lJQVNz0CnbW3vWiQcQ315aUa5_9pSNVqMQ5xkW0ctpkGutJ6SwbYjFicSMr850kDX-zVeLvLfpfLrEQVRvPnVQ4DeDI3N5zAeYyGdM5HvmS-Il2MtwaRvtvR0yR7UwRHz--n4YfC5k8/s1600/Canter%20Abygaille.png",
-      "link_mods":"https://www.mediafire.com/file/5cs546u23qluyig/Wahyu_Abadi_02.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/str0uaxjag2598w/livery_ABYGAILLE.png/file"      
+      "category":"Bus",
+      "title":"JB3+ Kupu Kupu Ayu Golden Admiral",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fipwl-FUpdRND9R31PyDO-FUYc8iPXXVwzlcX6CGa8cBqLSy5qS_7xFKFeUBijxnzWXTGfX4ZspBn-NdrJZ05S4bHNk3KNy5PGxsAeKKz9JmsabuC9H0XMx3GTgG9yyxWekRnXILyRju-yXGMT2lBHu-416ISxrjA9U53MostDi38I92B0alOI8/s1600/JB3+%20Kupu%20Kupu%20Ayu%20Golden%20Admiral.png",
+      "link_mods":"https://www.mediafire.com/file/ilxnqq2psoirwf9/NATASYA.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/jono6ttdfqhbr5j/Kiano_golden_admiral_by_Hanafi_Hardiyan.png/file"            
     },
 	{
       "id": 25,
-      "category":"Truk",
-      "title":"Canter Gayor",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTOPzUe8oqf4A7efUdqmP2cuIcwL2rANJljarE83OC3N3te6p7JAUzoWGhiURZIdiG0ucLEDH8wsXPMI5-cHS3nN_C1XuB86iXQ3EYm-7451Y_llhfX33_ZSntJvicUiG09Oimaqciu2mzwSJLtW86Qgu5IHOcCmi65pYHficqZodPlIzTHQkSmQ0/s1600/Canter%20Gayor.png",
-      "link_mods":"https://www.mediafire.com/file/q3zs4cengiwyufj/CANTER_RL.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/xlrbuadus25u27o/IMG_20220813_125650.png/file"      
+      "category":"Bus",
+      "title":"Rosalia Indah JB3+ HDD JMC",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxdT6zXCPJF345t2xxVec-wwwAlxuVqCs68ZrBdd0LHcFPbhAPBW-D6nI5AwmmIZnFdRLgPcqB3O7eBXkJ5Z47A5frekp7kkvymXdvylB7EiqlPq5_4Y7XGfhcDVBQ3tb8KZPDUC_viwyodNF6l7-_Fk9Z4stat6FR8o_4Lb_bSYI1KjE4Odqn0sc/s1600/Rosalia%20Indah%20JB3+%20HDD%20JMC.png",
+      "link_mods":"https://www.mediafire.com/file/ey1ve5n1c6626kr/JB3%252B_HDD_JMC.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/m6u0gnwad3lwsuv/jb3_hdd_setra_jmc_Livery_Rosin_by_jeffry_bussid.png/file"            
     },
 	{
       "id": 24,
-      "category":"Truk",
-      "title":"Canter Patriot",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Kull8DLvFlizj_dQ_1OvfS96ZDH5bR0je922mjhxymz2iF78W1StpksOeCR8XPEnyljhU6yNcMGKDJzy1hakoM9U1BR_D-rjzvzr9Pe_1FkJTym29Z-wH_-MGnGlkJrhkvYsw2AnUrzlmHwpQQoXzn5VK5r2v3jT6VvTnfFzjvA33yNk3foP0Gw/s1600/Canter%20Patriot.png",
-      "link_mods":"https://www.mediafire.com/file/ipvacy8l4rujcta/CANTER_BOX.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/y8c0l7xip3qj2hd/BOX_MBOISS.png/file"      
+      "category":"Bus",
+      "title":"Nucleus Full Boneka Luragung Jaya",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtL5LXFSkhpQAa7BNev8E79OLLyhZRYoIn6l7bke5K9-96WsmBRDy7zS8jCtXik5PWH7yaB5xU86n8Gh3T17McrT1b00bdY7ZFaTXyZam0R8Xb-ZFxeHnI_WacQW6AlkoF0cH7ywfvbKPqWctDEEqyCom4XRDuBtMlpw6kgLY25xaAAeETiieNJ0I/s1600/Nucleus%20Full%20Boneka%20Luragung%20Jaya.png",
+      "link_mods":"https://www.mediafire.com/file/h4rpougzy7jetb2/Nucleus_Full_Boneka.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/tcggqo94wx0bsfm/1582446879030-picsay.png/file"            
     },
 	{
       "id": 23,
-      "category":"Truk",
-      "title":"Ragasa Aquarium",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrnUY_0S_OZaSgl2Q2iPOAjgm8858BvfKF6b1l4Gv_ynqyXg-dh50uKjk5NCD2t7aq6UsrTW_yv-ZarVrnldyUGEwUkAZQFiYSdtoYhShweNQyRsIMAdKxnP_HBjCfOFjwbnjWNkxOfUnwGIgxIvcAwPGMKGJzId7t8VApzrmSjj3f0kwuScaqYG4/s1600/Ragasa%20Aquarium.png",
-      "link_mods":"https://www.mediafire.com/file/2fqxjls4cgpycly/RAGASA_BAK_AQUARIUM.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/r7hpk75hwmcojcn/livery_ragasa_pink_style.png/file"      
+      "category":"Bus",
+      "title":"Bintang Permata Bunda HDD Tameng",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXgIDlSeFDgvK9PkLjYetQQP286KMfsAha3y4u_g8gf8qc-ffWFA6rrtceVQuocSeNBgKrqRFUvPD279FTz7QCWnSBgUE-0bdF3gQp9xh3pCoBB4RHRVY8uVZk14Dvrzb4-iJlbk7JI91mfYebN8MBatDXIvN1eoXcmtg3iXXpRkF6oc8kHHiFpUE/s1600/Bintang%20Permata%20Bunda%20HDD%20Tameng.png",
+      "link_mods":"https://www.mediafire.com/file/vjt0zuwfqe2obzk/HDD_TAMENG.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/dv1vr29bpm4itcp/BPB_JB%25C2%25B3_Hino_RM_SG_By_AM_Channel.png/file"            
     },
 	{
       "id": 22,
-      "category":"Truk",
-      "title":"Canter Wahyu Abadi",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD-fDb_Yt_0H3YiDwYNczc0vDCdJJCsfhWSyTKRT2OpOYzQIQCXTrfvSi3_J_ZE0wb-EbAio_sJuSVlIgNgAFb8NW2iCo8FooShlsorTsgUrpEvM6OrQxMIIt2PJKQxyU-K5meBwqa_2sizaK08fjQcUs6p8F9z3hbP1p6ssNSTegb2uqk1hSy-fY/s1600/Canter%20Wahyu%20Abadi.png",
-      "link_mods":"https://www.mediafire.com/file/5bmae0m781f0lv4/CANTER_MY_FRIEND_BKJ_Kontes.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/fq8qrwwymtj136r/IMG_20220805_200032.png/file"      
+      "category":"Bus",
+      "title":"STJ JMC HDD JB3",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Ybd8jECprJZ_-p6yNfrHM-WTe9sA40nPd_TZ0NbjDWnW-FLL4ZQhlSWrALSXq1mGhJGgP8duTDb38kW0mw-wSorsGIhKAe3lPyLnORl4esKAUdUnnM6piVzHRDf8ArUgsQ55y7xVCzNUK5oUkURovRqd5nR_8Pp5HvH4bor-LLNqw4oLBV-HCSw/s1600/STJ%20JMC%20HDD%20JB3.png",
+      "link_mods":"https://www.mediafire.com/file/vkxexkqktzutzj0/JMC_HDD_JB3_Standart_Cirebon_VarAlcoaAP.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/5ve3pcfafarwvv7/Livery_Stj_varesh_hdd_jmc.png/file"            
     },
 	{
       "id": 21,
-      "category":"Truk",
-      "title":"Canter Herex",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ44kZM9tX6KKfgrJbpv3dHAUl7UGzfiFGWFGltlQaEi57_BWU0aLf-aX4DQm_YBUqCWUbL5KCxDfSZY9S43drt4dwGZx3EZ_4oDpKaGg2rXIDMw_UCm2Hb6eV4l6KtOdGbdYlcCY1vtRp90G3P5R3kdlrFwubaNpFh_3wBWEjZuBW1PkSVQakpbg/s1600/Canter%20Herex.png",
-      "link_mods":"https://www.mediafire.com/file/p6ws36uhcsunh3s/CANTER_HEREX_SL.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/iw82ok1fgxxuj6j/IMG_20220801_025427.png/file"      
+      "category":"Bus",
+      "title":"Santoso JB3 SHD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcXf-LSuexWoylVQFx5DMvM0KxXkqEP8KEGtYigb1qRY5oOCFztJtAJkHUtZmATywwCkK0SSH32DbdMJPjjWJ4z8HW1wN2ESlbO9tfSMqlCUdjfuWi_peiUeJh3nQT_RVHHmJptew211tNY7c-xvmh4eWOvrB85i7E8lrcRfEY_uwF6fj_Gm5WPWo/s1600/Santoso%20JB3%20SHD.png",
+      "link_mods":"https://www.mediafire.com/file/9gmal0vwbtx74ve/fix_jb3_tronton.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/vzp1p948l4wdqnz/revolusi_santoso_2019_by_Ruli_ardi_art.png/file"            
     },
 	{
       "id": 20,
-      "category":"Truk",
-      "title":"Canter Box",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXhINWQkH_bYqCEzM38eQRWmO5Yjulgi9m75S_cRweHLLTpU7h7XVb5bH9bviGJW9aHt83l-9PbJ49k3CH9Cm7H7XAgyNJUurOpR9TpdVG7FwOW6HBju1poWu1WRZO-mqIr4ogQamM-dAyN0NGYSAnO8rnv3UguAkcUguPJBiUeoog9BvD-ZljcGg/s1600/Canter%20Box.png",
-      "link_mods":"https://www.mediafire.com/file/ka3goiunrla5464/CANTER_BOX.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/file/ka3goiunrla5464/CANTER_BOX.bussidmod/file"      
+      "category":"Bus",
+      "title":"Haryanto JB2 SHD Rombak HSD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPOTnCakByJJjuXO0D8xMIrXRb9MaRrfeBMFsMwQ-AE6g22w7mbm5231MuSRswJMzD1hetRQ1IvxvZY1JSo22P9hCmK0gF4hCtOL7iPjyobI9rBL80mtCnswLK0hZ_zv3am3-SrY2benq2_-pFVVQtyLupCbFgTjZKbNXEssCUH577IaRf0jQ1C54/s1600/Haryanto%20JB2%20SHD%20Rombak%20HSD.png",
+      "link_mods":"https://www.mediafire.com/file/by3apq9fkg1md6y/JB2%252B_SHD_CVT_ZoneID.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/266vxhglb7wuwcg/Haryanto_JB2_SHD_Rombak_HSD.png/file"            
     },
 	{
       "id": 19,
-      "category":"Truk",
-      "title":"Canter Barokah",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9HG71MpjvY22DBv6f77q337JXdG0cnyYGpSDNMZrYaciFQOUxQucZC0M9SD9Z3DCiuC-0D2y4wb0inXkbeRaGo3mV2ataDtDPN-RpwOYwg4s0hL79Ri05FkJlSUTOJWupXZlHAEWHzrglQbnkaNUJqnj-7YXb1rICBBii0mDfKAvQ2ZOR80VyIyY/s1600/Canter%20Barokah.png",
-      "link_mods":"https://www.mediafire.com/file/vht2plvf5u0p7qc/Wahyu_Abadi_02.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/rpp8f0whnpt1517/W_ABADI2_G_XDBC2K.png/file"      
+      "category":"Bus",
+      "title":"SR2 Racing ECE 66",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0K1yP0Gom95xAsTMcT-gOBJAAm95s6w-coIAO7EYow0WULRAk6SCtC_sAmJLL-OvoxJeVl1u_naIMtXzRBAiudgvm93XVYO9AusMnkbcQ8UW-YTbhQBK57iSae7ks_0AdY1cKfNw8JKaFSfFq3YGdQgzrHw8ALio5XQeA-nUTQqkVsJtMOQ-A-CU/s1600/SR2%20Racing%20ECE%2066.png",
+      "link_mods":"https://www.mediafire.com/file/j9jgcxglv3ibhul/sr2_racing.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/gnjhdydergpuyte/Livery_SR2_XHD_EC_R66_WSP_4_Trans_by_Eco_Cemong-_Javastech.com.png/file"            
     },
 	{
       "id": 18,
-      "category":"Truk",
-      "title":"NMR Suspensi Real",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjpRB992rjk90XpRbQXiq4_mnGdLwqTc7nA-5nkIU3Uqx0Ye5m09twzuWmpP48bme7VVzxwo5smI38GO6xsjDQYK2YLatVwMabbpmBvHvF1XyU2_PtKmY3N2RVabcYVg05CJnAy4ErUwL3sG-ijS3u9cAserqGqvDiXN14IXODDrsTvKB2RS7hN1g/s1600/NMR%20Suspensi%20Real.png",
-      "link_mods":"https://www.mediafire.com/file/e2rkc8uh16xiqi3/NMR_REQUEST_FADIL.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/0xyfyqlg731xqac/IMG_20220814_115307.png/file"      
+      "category":"Bus",
+      "title":"JB3+ Satria Muda Velg Racing",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgELeNYNmyJdDocMs45TS5lCaPkGvFSXfhBCebWf1PuATECTUr1d9q0NUWXfTHhWlK9LC3pFqym8Js93zKUx2JjgaaTbyUYXx7Kqh2Fi0si-muagQRF7OLDEpGIZaWNVOsYWG9qEyUPXI8w7y4-qUQjmcZTd-Tre6hWG8EyrvMFG3C_Svdz2uqOuYc/s1600/JB3+%20Satria%20Muda%20Velg%20Racing.png",
+      "link_mods":"https://www.mediafire.com/file/t57tiw3ki0cecuc/RR_jb3_shd.bussidvehicle/file",
+      "link_livery":"https://www.mediafire.com/view/cqp822lxd2nkos8/Satria_Muda_JB3%252BK410IB_WSP_by_Blahbloh.png/file"      
     },
 	{
       "id": 17,
-      "category":"Truk",
-      "title":"Pink Canter",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQylzKuXmFPPOmVSSBMc9uHnzvseQ5eW6F3wZWjEetNRGxrdjWzm0nUgtItghV7L--Lxr0isxBMe_VTOHhLa1HxQLLoK_1TVf7y4ltplSxB32NTsMSjeEIotUIn4fo-Q4L6Kbru2H1f5g98qrd9FqvpppotC-xYd4DfZ_oCAhdbNMwTz-nOR89kjI/s1600/Pink%20Canter.png",
-      "link_mods":"https://www.mediafire.com/file/r8lbarswuaqi2fj/CANTER.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/hnklfzn1jjcrc1o/livery_pink_canter_N7.png/file"      
+      "category":"Bus",
+      "title":"Haryanto Capolista JB3+ Hino RK",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwD3wr9T5UHO5duWsj33ucM2ezMw_c14WplnJqLVWmVlSV2mbws2DEa7O9bmIEt_EdaXEu7GoFM5jBszuxnS5HsuM4CTW0z16L0w0T24UOOuzpuefjKU_8SXIXu1Jrzj_0KybMAfTN-bxff5SErjA6ovwfHbm1HwXN0F3lytwKL0E5Ym9e8kwbb9s/s1600/Haryanto%20Capolista%20JB3+%20Hino%20RK.png",
+      "link_mods":"https://www.mediafire.com/file/88rii9t1ypbgr4c/JB3%252B_HINO_ERKA.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/n6486qt0upn1t0q/ANK_BUAH_KUNTO_CAPOLISTA_NON_BONEKA_JB3_HINO_TERBARU_BY_GARASITUBE.png/file"      
     },
 	{
       "id": 16,
-      "category":"Truk",
-      "title":"Fuso SG Oklay",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRLcDk-LAiui0st0xRSxDtLHfpdOOYYPto-UtdmR5UidPw1EFljW9xfwaad_K0PyufgcQE2kLXxKvy0IKokm3VyXqFuBy0N8VCmG-QdXKqk0SmrZil9Zn1nxi1CHM2QYY-pV9-AoHT-MOjRdTrBil0bvBg0fv5LeKNziWSfZ4DpaMGf3Dnei-oLwM/s1600/Fuso%20SG%20Oklay.png",
-      "link_mods":"https://www.mediafire.com/file/o7fbaoqqwehc0qi/sg_oklay_egine_berat.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/0o6x8mydvpxngoj/MOD_sgg_oklay_egine_ringan%252Bcamera_youtuber.bussidmodMod_Vehicle0.png/file"      
+      "category":"Bus",
+      "title":"JB2+ SHD Rombak Racing",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEuRJgLpTnErG3bu3b-1_u35y26AbXUBK6ACTPD4WgwZ1V22akW9nr2-Um-TIw-L739QvgEUt5cq0sWvHTP0VpSrELZOyezIBSLOEmp6we18Hv1HuISc07YQzOstrx1WCwJJj3lCm9JJRP1G3fltMoMxIECBqn6Y3a-P5-1H4yLEvqzdNFek0707w/s1600/JB2+%20SHD%20Rombak%20Racing.png",
+      "link_mods":"https://www.mediafire.com/file/pgmm5rb6o1rdjkk/JB2_SHD_ZTOM_Custom_HSD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/hha2pauwt4r26jj/Bintang_Utara_JB2_SHD_ZTOM_by_Blahbloh.png/file"            
     },
 	{
       "id": 15,
-      "category":"Truk",
-      "title":"Ragasa Box Van",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj06rkvl6dpQXfsLCNj_9-CggLgRSQWKmxEjzdu8iQuEfs6dh4LxyS-kTsJoWRarYTmVTskpunQ5g4g1yJLiVvl37egFJP-VbLZZ4SZaqrACaO9m5zye373NABRv4kO1WpjJjBAJPz-yElyVNKSamSXv1YG9JS0yzaeQMNmcdhL804KRFJK1dfriFk/s1600/Ragasa%20Box%20Van.png",
-      "link_mods":"https://www.mediafire.com/file/cmpyr3lmjnmu8as/RAGASA_BOX_VAN.bussidmod/file",
-      "link_livery":"Null"      
+      "category":"Bus",
+      "title":"Kapuas Raya JB3+ Facelift Voyager",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ-VDuPQ1MgiQo7HADidoDkg12mw3N-17pYG26FFA7Or8Z3p7v1jpGumk8WMg_EEu7QdANOZH_N305iMP_VtpO0BV0SxAvbWzDKgFMrhtsm34HqLkQwYia7WKXdqBave1OtDMRdcE0q3henuS6IdpY-CyeCDMlZlL6XN6CLM3QoQttB6Mzjo64hXs/s1600/Kapuas%20Raya%20JB3+%20Facelift%20Voyager.png",
+      "link_mods":"https://www.mediafire.com/file/ll6pjtnray2lm0k/JB3%252B_FACELIFT_VOYAGER.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/i130hy0zvbux9e1/Kapuas_Raya_JB3%252B_Facelift_Voyager_by_Blahbloh.png/file"      
     },
 	{
       "id": 14,
-      "category":"Truk",
-      "title":"NMR Kalimantan",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSpcXA5_EKt1CtdQOS3WSHI-rWfMW1Aw1A4VaWt2-HJN7uLI8g3bl1_Lvq9eAVSO2jEI9Q-6inbLtN9eXVrqqclOY8p77EQxDKbQeOtf6gH6B_OXJxg3Qnz1vchw_a00HTKHgkvt48LfpHRVtC4-pBCtJL92ivgFDYG7DBDBol__XUAqfrOHLs8Mw/s1600/NMR%20Kalimantan.png",
-      "link_mods":"https://www.mediafire.com/file/oltl07tw8i1erbo/ISUZU_NMR_KALIMANTAN.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/vu0htb7a216od16/MACAN_KUMBANG.png/file"      
+      "category":"Bus",
+      "title":"Manggala Trans JB3+ Mercy O500R",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVl_JQ0Gxf421Rj08eCQlI_zRJdzKTAJbkCujmEJRs0sw2WyjuZ1rPMsbVB_SS3XdW96EHhA7HyLbFPKoBYFEgh3yL9knUcGyxY_LgA-C-KMWKJU0a5FDBJnll9tsRLN0M0H_L1heuMT6Vu7Wt201b2wQLf46zJIWlW5aEVJLAfQsYuW0_j7sFOL0/s1600/Manggala%20Trans%20JB3+%20Mercy%20O500R.png",
+      "link_mods":"https://www.mediafire.com/file/zrdfx3ndsl7y1qw/JB3%252B_MERCY_O500R.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/fu1vx4n6i25pgcx/Manggala_Trans_pink_By_Catur_Khasandra.png/file"      
     },
 	{
       "id": 13,
-      "category":"Truk",
-      "title":"Canter Nabila",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgGi2ttM7lRXfEZ3CtGKwhfCbPsQqYRyXi7otmbEL2WK5NY8UdOfuKqt9G4nX9LmOp-d8Zs9Xpr6que8l4MkOOC5jf8itxLcRUrpkxU8WgzxJTLJFFYwE72_5NxYpGoSSdPCYyu1lOSQmeUaNFZGEuPKMKcLHpHlgh2bGzuM1LLqF39s427MBI5xo/s1600/Canter%20Nabila.png",
-      "link_mods":"https://www.mediafire.com/file/418vh09oq2t6gix/CANTER.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/l4iu1rvs9ts0j0j/SEGI3_4K.png/file"      
+      "category":"Bus",
+      "title":"Haryanto Capolista JB3+ SHD Hino RK",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwj1Iu0Eu4r8qFa32OBva2f6-DnVhgas8KPmyX4Z90HpIWHV2ambhNwEI45Q1tglq9ElCUSc6O9FRkog8IZJdfVyXv4QaC-9kns9rrqedp_dZmd_2_iQN1xzuvI7AGjBChyAQgw9einetx3EJfJo5gk-pakC0ZTqA464Bry_V5xW7IcBf9syw4pPs/s1600/Haryanto%20Capolista%20JB3+%20SHD%20Hino%20RK.png",
+      "link_mods":"https://www.mediafire.com/file/vo3sej5lzpu5u44/JB3%252B_SHD_HINO_RK.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/e5m8rfvg6oigv3y/CAPOLISTA_NEW_STYLE_VERSI_JB3_SHD_HINO_N2_BY_GARASI_TUBE.png/file"            
     },
 	{
       "id": 12,
-      "category":"Truk",
-      "title":"Canter HDL Zivanez",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Hxo8AX49rTuAZGdztX6P0g1ktiMpMy4QymIexg0s_i1R-S2z46L453tsth24vsSHsqLGqapWs4QuvnIKeEHlZrCaIang2_fjzhYBcZKzXWlnuyuAh_0bjyL91slbuw0Ply5Ai6VK93n4naFDvVQ6SD-cnFpn0wdiUm0fQfQ_XwWtN4SiLvmtLyc/s1600/Canter%20HDL%20Zivanez.png",
-      "link_mods":"https://www.mediafire.com/file/48o1yay44bh9ntl/HDL_SPESIAL_TEAM_ZIVANEZ.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/g0otg82q4zwpmwl/LIVERY_CANTER_HDL_ZIVANEZ.png/file"      
+      "category":"Bus",
+      "title":"STJ Shankara",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6iG67kym9ZR6IX3TnIAlyzETYz6MbQ9C0yOZBH7RQFdibIJtQvmTPd8vJg8JZfwPNsveY4n2PIYE6yIUHQuDVlXsBe572bdU2gFXDj2j30uNgCRDuS64KQI-5D4-dd1GAg6hTQU84LL8L6ynBXECCE-VAoZobx-x31hlPL7udOl8dBOLNDNrmlE/s1600/STJ%20Shankara.png",
+      "link_mods":"https://www.mediafire.com/file/ggn2tx7tuwo26um/ALCOA_FULL_FARIASI.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/oh8qlm17ndfdy0p/Stj-050-SHANKARA%25282%2529.png/file"      
     },
 	{
       "id": 11,
-      "category":"Truk",
-      "title":"Canter Wong Sepele",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl3TL602N4iGiS3NH1SmcdiUF1KFgISeQ8UI3WA4e2idGucdrioqHyyzV3kz5pAhnZjhc547Dy2odoK5HLGQ_HLE2rlxGW5j1dpUw8YHMa-Es-0EnKgvKE_yWQFcyLXUONbrcymHnSXZQ2__jk1_aX6S_9gYaepSoPDBq73lvZGVRp0XKodhBaMQQ/s1600/Canter%20Wong%20Sepele.png",
-      "link_mods":"https://www.mediafire.com/file/djjq85woea7jlel/Wahyu_Abadi_02.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/h69ppkofjvuvgtz/IMG_20220804_154624.png/file"      
+      "category":"Bus",
+      "title":"Haryanto Capolista JB5",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF3Oj-hqJxOoLgcJuZ5GR0-icfh70nhh3dKYtA4EKmOQmG_YI9eEMPsNgJcqlO6OhKCrabKRI95ty7Jhb97haqWSLqtFJgqkFNWg7Pnsm7_Iok3qGJ78e-KIBlDKWtavTqFSLMBh1gPurbiAMbLImrh7Z90FPjnhV_Em9ic-HaMab9lQRl3kUdvWY/s1600/Haryanto%20Capolista%20JB5.png",
+      "link_mods":"https://www.mediafire.com/file/vhs6ihdjmeme28u/JETBUS_5.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/4d5xpqa8j6d0bf0/ANAK_BUAH_KUNTO_CAPOLISTA_HR_199_NON_BONEKA_JB5_BY_GARASI_TUBE.png/file"      
     },
 	{
       "id": 10,
-      "category":"Truk",
-      "title":"Canter Full Pengaman",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv-ZssmO4zfQu8iaz7A6LrUrBihLOoc55z4MK2lqOHV0EG8CEdAsRhNkHIS6Qgf6UNvJI2QwGU7eIAA_1JzXEeBo0FjQGAoOzlWg_tzrUd9SiuUyr_Ivc2DLLa838Pg9TqbMKS26rYunvzWydafP8mGMFkKrrHcYmFbjvzoXGOVT6lvRYDvERXx68/s1600/Canter%20Full%20Pengaman.png",
-      "link_mods":"https://www.mediafire.com/file/fixf08s5ldcmxsm/CANTER_MY_FRIEND_BKJ_Suspensi_Real.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/2w34csuu55rzcfw/livery_duta_lintas_terpal_segitiga.png/file"      
+      "category":"Bus",
+      "title":"Avante STJ Draka",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvJd0ydtVZ4aGBxPw6atD8jqudTHhbXzIyTZU5G77VLoEOlOcJ8Stw_M_-5J0sVPgN34re2NZp4Hfh6zVHDBfO7shxlJBJCjEgo1jnij65LZSspwriK5sovJy4dZDaE2CGYZ35l6zKFueaDRUBnNL8qj2W_8tm1T4xFjuJCKhU3ah3E7Zm5QVDl0g/s1600/Avante%20STJ%20Draka.png",
+      "link_mods":"https://www.mediafire.com/file/mvo7z5s0o74mxq2/AVANTE.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/p4rso5fwm85jxv4/Avante_SHD_STJ_DRAKA_By_Jeffry_Bussid.png/file"            
     },
 	{
       "id": 9,
-      "category":"Truk",
-      "title":"Canter NKR",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhif2huCbbm-hNcxpM8fsWlaMEvoPM_7Se-dOTIG4Ln8Dg_-quaJpvAfZbeVi9cJGhkDUpNkIoBWBOaGLlTz_rX0FV4Jbrp4m2-r3E0bTnHuP7cnXhVFXhiqe9IobRiuP6l5JVv5sjc9oPwW4tGQfwFL2-svkRpTC0_cKi-WZtjMXmGaY3pIc-LTe4/s1600/Canter%20NKR.png",
-      "link_mods":"https://www.mediafire.com/file/nhawqj0tepnrh8p/NKR.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/jo94el7vjlhd04o/N4Gayor.png/file"      
+      "category":"Bus",
+      "title":"Kodename JB2 Sultan Full Modifikasi",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtr0-v6jjJ7eXuSnOu3jnbhtGk4NTgDY5KguYyGjdZfZB_87syRoEOUJSieM6rl89rV3MgaJ7KxuUkuG1f3X51BsLAv-bw2NGTnyqIT17uJt70KHIosvH8izfHQZhQUnCaVsF-MC25cv3ejj7lcn7waC0yJYIZv3P6geBwYUTXQ897owag59Nw4Bs/s1600/Kodename%20JB2%20Sultan%20Full%20Modifikasi.png",
+      "link_mods":"https://www.mediafire.com/file/teuqld3pvkhg8e2/Codename_JB3_SHD_Rombak_Dan_Tronton_SHD_Rombak_SDD.zip/file",
+      "link_livery":"https://www.mediafire.com/view/zhpkrhp6ezoa2ut/LIVERY_HR_GOSTI_UPJB3%252B_BY_PWJ.png/file"      
     },
 	{
       "id": 8,
-      "category":"Truk",
-      "title":"NMR Custom Gayor",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJOPRTFqVlGfofV8NEC4tEa9_phGZnf2KFEm3yk0_IimKSX75YWW9NKXmpjBlFQnT1sipCIbUCJ5lpWp2GKCOlePMTCqfU4iDcVknS5kn95T8YBE5vJyMhQUk45qnS6aIXIVTyEN-IjAcOS3j17vEsKnMtv2yycnBb5K3yzb6mq3u3VY7XOIwEob4/s1600/NMR%20Custom%20Gayor.png",
-      "link_mods":"https://www.mediafire.com/file/b9en9bfw4y4xffj/NMR_REQUEST_FADIL.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/6nca8bkuzxljeh8/VERY_NMR_PUTRA_GADHAX.png/file"      
+      "category":"Bus",
+      "title":"Kodename SR2 XHD Rombak Bus Arjuna",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ5Of1sxtWhhbXWdnBi-K4-ksEyZ0opkC8mjZLEH1TsudIUj6ShSJYa_s2hpQeLSm84Zh9nxE2w-TDw6PAPZiiWOKAMGajsGL2h2yBUneTz-BshFoLo9fj5T-4hmcmRC6FL9cLlBEF9AELPdvs3-9X467VN8z7c_BRCF-qLQWSOkSAa_ecw7oz7x8/s1600/Kodename%20SR2%20XHD%20Rombak%20Bus%20Arjuna.png",
+      "link_mods":"https://www.mediafire.com/file/ac5jfqn24vhx97c/AO_%2526_TEMPLATE_KD_SR2_MN_X_RPC_FIX_BY_WIDNUH.zip/file",
+      "link_livery":"Null"      
     },
 	{
       "id": 7,
-      "category":"Truk",
-      "title":"Canter Update Dop",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkrYmJ7vpA0NLKoTJ-yhadw6CSSGAYEcicrVnTLdMPAXzafFqPOBzasT94QPeBpf8-CoRi_H_k8dA-xe3gRpG4xAxFlcf0d4PH4jHM4w3YKU9vqNA0XthnzddL3SJqzKM94eH2FDZYI2O2I_e57Hc3sfZINixxKm9Ek5L9seBUAFNUfRgiXmIebhw/s1600/Canter%20Update%20Dop.png",
-      "link_mods":"https://www.mediafire.com/file/oh6tpi6lj2tr5jw/KIKI_OCRE.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/p3faaz3f8ujii2h/IMG_20220804_221158.png/file"      
+      "category":"Bus",
+      "title":"Livery Ori Green Earth & Mooneyes",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaTPsJYYR685XqrykBpeS21-y50dFbL55DoBbFfCE7EhiUWRNq-2SiLpOpXFwIvZ1KqtJyEdTS7pObWPbv-3rj5VBKuYRfM1AZ20WIUskWtqeJdKcWfyDWbdEigx90caqDsm6Gmwzu7Uqq3tDnceBZBwvSQIg5xhbI5vx3tKZPT50wuNpONnT-vgo/s1600/Livery%20Ori%20Green%20Earth%20&%20Mooneyes.png",
+      "link_mods":"Null",
+      "link_livery":"https://www.mediafire.com/view/9vtv1fxln4l6bbx/Tunggal_Jaya_Mooneyes_Voyager_SHD_by_Blahbloh.png/file"            
     },
 	{
       "id": 6,
-      "category":"Truk",
-      "title":"Canter Engkel Box",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFSaPzD2JdF1OqD8UE-B6gMIlqC0lZnu0R223vyOLzTKH6_J2V7ziKM18OzUXVcvDwKYcO4dTb3XdLAWXQMxYUim03mnL1jBefok1rIehlVlqinLsPU-kUco7DawyVGr_czBfRuZHI5zJvGnoId9nqR5Kf3ZRTmKBdGY9KFQXwD8CvGz3Kx_IdTd8/s1600/Canter%20Engkel%20Box.png",
-      "link_mods":"https://www.mediafire.com/file/ijluyob5tr41rmq/CANTER_ENGKEL_BOX_MBOIS.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/b2ax21ts9iixnzt/livery_Truck_Canter_Engkel_box_ninja_Xpress.png/file"      
+      "category":"Bus",
+      "title":"JB3+ SHD Po Haryanto JB2 Premium v2",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTfhBBlyRyi-M0N5WiwgAA67Fw1yEQmoKIrM9o2GffrfNwaJDcnKdurOtAnXTsHVIrVL1-LM36W7SLWM31sQ52Crfzc_KuYMptEAHu5bGhHW7DWf65iSaEHbNu9QCAeteawPUM96HlmwZz3JQgLQS5EkN5CduSv6XyiCL9zNPG6ogAgQ-7Vwp-0Do/s1600/JB3+%20SHD%20Po%20Haryanto%20JB2%20Premium%20v2.png",
+      "link_mods":"https://www.mediafire.com/file/j8if1zku06g6zfj/Kodename_JB2_Premium_Class.rar/file",
+      "link_livery":"https://www.mediafire.com/view/9xtd08442hl6w3s/HR_BAMBU_RUNCING_JB2_V2_PREMIUM_PWJ.png/file"      
     },
 	{
       "id": 5,
-      "category":"Truk",
-      "title":"NMR Bara mbois",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIXxjAgWyFVbgtNn91lbQzkB-s5p2k5Cuynw1ovN3rKSMCHBx3ji6_9nUUM-UqqnxAoKTthHpGtpZIfA-P3-7NQUcr_dae2JAkYPBKCjALeVr3sRR9VJnPKQRxOaPq9quYnHjFU47siABr-No7KdFMsA74rhx7fbSGzhlxODEoAhE1VjHLbnhADJ8/s1600/NMR%20Bara%20mbois.png",
-      "link_mods":"https://www.mediafire.com/file/d6b5qqh4fvmjhz9/Nmr_Bara_Bere.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/qq348bgdhq6k2yp/NMR_BARABERE_S_FAM8XDBC4K.png/file"      
+      "category":"Bus",
+      "title":"Purnama JB3 SHD Real Lampu Kolong",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRJUw4G-QoOaGRAm6N8kAO0nakmZB3IT4dr7mO6gekikOv-daD7iNl1TfrQka5t3MKh4tf6TY7h3KSCE5k-j8heKxDipOZLOhvrgsU12d4C76xcNMjHKjE5jrhMJkPf4GkOZ_nqwn0spYSWDMQ7he18BAYc0hs7emPGykvr2G3pzbNh42gPiAaqig/s1600/Purnama%20JB3%20SHD%20Real%20Lampu%20Kolong.png",
+      "link_mods":"https://www.mediafire.com/file/tkktqetfysxqxdg/SR2_XHD_NASIR.zip/file",
+      "link_livery":"https://www.mediafire.com/view/b89oavyu9m6sj64/LIVERY_PURNAMA.png/file"      
     },
 	{
       "id": 4,
-      "category":"Truk",
-      "title":"Canter Mblink Squad",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhODb2BS58cfm_-YCoRiifMGN_hJb2zcdPuDEtnf9bAVlnSlFHrlJ5jM2gdVay7qIuZfqgDKJx_BORQXXXwt4RJCXzMjOzxGL6QIFnZfFieWQysndm2_-B9Tg67jfemaIH_E9-MXiz6xQsYcmbCcRTYz8ztVeixya5zKMPPMoO-xYJ7Ox1LHltsu5I/s1600/Canter%20Mblink%20Squad.png",
-      "link_mods":"https://www.mediafire.com/file/y182rlvluhsvgcg/CANTER_SRX.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/8zpze64he9wq062/IMG_20220818_150737.png/file"      
+      "category":"Bus",
+      "title":"ALS & Bintang Mas Rombak SR2",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Hks8I5FUX_D8vBnZRO3zKsb3JY2c-Udy8Bpr6-4w0XaQnHzkTU5zqQVgTjqnRcA6CuATsEd7xPwrWWHgx9ix66GW6YIXGwooaEfGPosrhXFqRjxFqgBt6ratglxIYocDZ12WUJBcYIVXgJS14IzrTZvUgZyElKgrIzfpAQA3sbkN9XVluDCXeDw/s1600/ALS%20&%20Bintang%20Mas%20Rombak%20SR2.png",
+      "link_mods":"https://www.mediafire.com/file/fws000rezjkslaf/SHD_Ori_RGB_Ngalir.zip/file",
+      "link_livery":"https://www.mediafire.com/view/5cceamnk1mcudvm/Bintang_Mas_Alhamdulillah_Boneka_XHD_Rombak_MNXRPC_SR2_Blahbloh.png/file"            
     },
 	{
       "id": 3,
-      "category":"Truk",
-      "title":"Umplung Mbois",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb2o0GlRdsWw9KGKZdeo83WI5gZMEJqf40WF0ZqPsfnhk8lF_Nro4j9G_QZOqmwlVTQHaonibBqNfooI_-3lRdy8Y9BrUySZPelj2Estv_8HW_HcXNIZjwThQAYVC43BOtbW8TbDyxqkLsWhjgAC4o26Ls3gBJdGXIz44yPi9bmIPQgnDT4Qv7Zos/s1600/Umplung%20Mbois%20Muat%20Tebu.png",
-      "link_mods":"https://www.mediafire.com/file/c60y6o61bq6522f/UMPLUNG_SELAMET_SEMUA_ADA_CABE.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/1ikdby430godu92/IMG_20220808_054604.png/file"      
+      "category":"Bus",
+      "title":"SR2 XHD CBU Mabar",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJo3TxmkTw-nP5eyvt0SvPX4N2k0KdFeYO2BOGLrvh5N4vnckaS9EEcdBP1wn6gzt7D0ExBXTvUdJAl7lxMpeYb3pnrhfhvgCl9UTGU60WTVt_SOZ6hgYPpqjPB3-euBRLFGh-PopP0321ruwXElq8hyhmex_4qhSzthRqsDaYXj0J5XXvCsuMPNo/s1600/SR2%20XHD%20CBU%20Mabar.png",
+      "link_mods":"https://www.mediafire.com/file/p9k66203gbhrmyy/SR2_XHD_NASIR.zip/file",
+      "link_livery":"https://www.mediafire.com/view/7sdvigdd60iidfs/IMG_20220715_010422.png/file"      
     },
 	{
       "id": 2,
-      "category":"Truk",
-      "title":"Fuso Putra Bogor",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKYqTMB_fMkoL6YjN_BjltWwJ0X03lNhHFX1fEpG82xF52N1B1vhLXy2fXySTpvYu7hzDfzi5k7lRTeL4QO2NQxmfg9CmzZqh2DNkWuQTH1Mw05d1-9xLEUm-cdTRofR5lzBLN_xIUDzf2hqg9ZaU1SkQmgk4Dm6MmAvnxwleQWw2S-kmZElSuNY0/s1600/Fuso%20Putra%20Bogor.png",
-      "link_mods":"https://www.mediafire.com/file/xr9nqdazpl9end2/Fuso_Putra_Bogor_2.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/yx5wczzyb7tc6pt/Fuso_Putra_Bogor.png/file"      
+      "category":"Bus",
+      "title":"Telaga Indah Armada",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsvZdNh968DXVzrrpf7Ub4M_vUpNcvSNKPkMoSAtci3CNtVh5rXQdL_t1gRDd3TAa-8sgW1qhhDjzPk9xq85So-dRpCmYLXJ5OW26G4c1SopIBDvOb_ZGb3UsYI3--sYzOieW3WTFwGCbwpik7S-MdtwbOKFGgUn6u41FlgdvXgSmvNCyE4iQP77Y/s1600/Telaga%20Indah%20Armada.png",
+      "link_mods":"https://www.mediafire.com/file/y5mm2b0xpftjh2p/Telaga_Indah_Armada_JB3%252B_SHD_Voyager.zip/file",
+      "link_livery":"Null"      
     },
 	{
       "id": 1,
-      "category":"Truk",
-      "title":"Canter Bastaboy",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyjxuZup3zcWsTQDxMtosAzeShChKLapSEOhx3JKtDpWWdrrSBHlxgCH6fZuyJRlkZZUs75gLZlhtakssYQJqFsRZ8GABDw-BqhlcrQzpIJsLez0Twu4q8swu0UenKf6zxO8HJ0sORLTAvAKq4Zbo_t_8XbWsHuaQAS5D3Vn4TSF_t3jo33V2sIdE/s1600/Canter%20Bastaboy.png",
-      "link_mods":"https://www.mediafire.com/file/zy88tn9ya1cts7q/Canter_bastaboy_elegant_dop_chrome.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/8s162mtxmtyl3j7/LIVERY_CANTER_PATWAL.png/file"      
+      "category":"Bus",
+      "title":"Tividi Aulia Reborn Mbois JB3",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNgUUmu0n-6YwocIrCIHCQz8UDRs3zeI79BRxoGt6jmTdqqIg-IxzEDEO8utsdeMaHZf-4f_kToZH4wtDSnKZ61AxaEDq9CnWTZz_pv1DUsvnlt4R90BgoTRlF7rya9mHg3tXs-fmoLc4eHHg5nLdYwc2Kbl8oJEdr6GFZKporR0XOK6ZbkVbukJ4/s1600/Tividi%20Aulia%20Reborn%20Mbois%20JB3.png",
+      "link_mods":"https://www.mediafire.com/file/al1lrypmpunqapo/KODENAME_EDISI_AULIA_REBORN_MBOIS.rar/file",
+      "link_livery":"https://www.mediafire.com/view/9g44n3k9ws5eqo1/LIVERY_TIVIDI_AULIA_REBORN_XHD_TO_JB3.png/file"      
       }
 
   ]
