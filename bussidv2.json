@@ -1569,7 +1569,7 @@
       "link_mods":"https://www.mediafire.com/file/cajd3bgzy7znwef/METROMINI.bussidmod/file",
       "link_livery":"null"      
     },
-    {
+    	{
       "id": 16,
       "category":"Bis",
       "title":"PO. HARYANTO JB2 FULL LED",
@@ -1577,7 +1577,7 @@
       "link_mods":"https://www.mediafire.com/file/1jafm711mrwxewx/JB2_FULL_LED_UPDATE_V1_CVT_ZoneID-1.bussidmod/file",
       "link_livery":"https://www.mediafire.com/view/a2vpwip0kd3m4iy/HR_The_King_jb2_ZTOM_X_MDC_by_Akbar_Click-picsay.png/file"  
     },
-    {
+    	{
       "id": 15,
       "category":"Bis",
       "title":"JB3+ SDD VOYAGER",
@@ -1585,7 +1585,7 @@
       "link_mods":"https://www.mediafire.com/file/rcmnb2dwh34zoj7/JB3%252B_SDD_VOYAGER_SHARE_BY_JODS_TV.bussidmod/file",
       "link_livery":"https://www.mediafire.com/view/sv5yzd58fq80irk/Pandawa_SDD_by_Blahbloh.png/file"
     },
-    {
+    	{
       "id": 14,
       "category":"Bis",
       "title":"JB3 SHD Hino 44 Trans Strobo",
@@ -1593,7 +1593,7 @@
       "link_mods":"https://www.mediafire.com/file/kdeszd3dud0uv9b/facelift.bussidmod/file",
       "link_livery":"https://www.mediafire.com/view/nafn0f0axndor8e/livery_44trans_jb3_Hino_update_FM_by_GTA_XD.png/file"
     },
-    {
+    	{
       "id": 13,
       "category":"Bis",
       "title":"ROSIN SSD Detail Full Lampu",
@@ -1601,7 +1601,7 @@
       "link_mods":"https://www.mediafire.com/file/5d5jklwgojthdb0/sdd3_voyager_winglet.bussidmod/file",
       "link_livery":"https://www.mediafire.com/view/8gkaesfr44hbhxq/Rosin_SDD_MDC_by_Blahbloh.png/file"
     },
-    {
+    	{
       "id": 12,
       "category":"Bis",
       "title":"SDD 4 AXLE VOLVO",
@@ -1609,7 +1609,7 @@
       "link_mods":"https://www.mediafire.com/file/1ffkm179n53wz38/JB2%252B_Sdd_4_Axle_Volvo_B11R.bussidmod/file",
       "link_livery":"https://www.mediafire.com/view/y64rvxoqnttdk1q/SUNBREAKER_NEW_STIKER_HM_012_UPDATE_JB3_MHD_1626_VOYAGER_BY_GARASITUBE.png/file"     
     },
-    {
+    	{
       "id": 11,
       "category":"Bis",
       "title":"Mod JB3+ SHD Hino RK",
@@ -1617,7 +1617,7 @@
       "link_mods":"https://www.mediafire.com/file/z5o6k8e4cg0tl4d/JB3%252B_SHD_HINO_RK.bussidmod/file",
       "link_livery":"https://www.mediafire.com/view/lxmtb2sqosixyqn/JB3_HINO_PINTU_TENGAH_-_STJ_VIOLA.png/file"
     },
-    {
+    	{
       "id": 10,
       "category":"Bis",
       "title":"PO. Haryanto SR2 NRS ECE R66 V3",
@@ -1625,7 +1625,7 @@
       "link_mods":"https://www.mediafire.com/file/gzfr7lgvuz7isj9/final_sr2.bussidmod/file",
       "link_livery":"https://www.mediafire.com/view/w0mpwvt8lbd8wol/SR2_PO_HARYANTO.png/file"     
     },
-    {
+    	{
       "id": 1,
       "category":"Bis",
       "title":"Harapan Jaya",
@@ -1633,7 +1633,7 @@
       "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
       "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"      
     },
-    {
+    	{
       "id": 2,
       "category":"Bis",
       "title":"Livery Zentrum JB2 SHD",
@@ -1641,24 +1641,23 @@
       "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
       "link_livery":"null"
     },
-    {
+    	{
       "id": 3,
       "category":"Bis",
       "title":"ELF Pariwisata",
       "image":"https://gameitu.com/wp-content/uploads/2022/03/3.-Download-Mod-Bussid-ELF-Pariwisata.jpg",
       "link_mods":"https://drive.google.com/file/d/1O6cwXG9kO4v6dlb2gqCBBLA-QXWYDJ-V/view?usp=sharing",
       "link_livery":"https://drive.google.com/file/d/1qvBBLSfQcfPiuaY1qcD9gr24Uufewnyo/view?usp=sharing"      
-    }
-  ,
-    {
+    },
+    	{
       "id": 4,
       "category":"Truk",
       "title":"Truck UD Quester Bak Muat Kayu",
       "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
       "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
       "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
-    } ,
-    {
+    },
+    	{
       "id": 5,
       "category":"Mobil",
       "title":"Jaguar XE SV Project 8",
@@ -1666,7 +1665,7 @@
       "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
       "link_livery":"null"
     },
-    {
+	{
       "id": 6,
       "category":"Truk",
       "title":"Truck Oleng",
@@ -1674,7 +1673,7 @@
       "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
       "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
     },
-    {
+	{
       "id": 7,
       "category":"Bis",
       "title":"Bus Telolet",
@@ -1682,7 +1681,7 @@
       "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
       "link_livery":"null"
     },
-    {
+	{
       "id": 8,
       "category":"Bis",
       "title":"Avante ES MOD",
@@ -1690,7 +1689,7 @@
       "link_mods":"https://www.mediafire.com/file/skma4ytnog3b5ag/Avante_D2_ESMod023.bussidmod/file",
       "link_livery":"null"
     },
-    {
+	{
       "id": 9,
       "category":"Bis",
       "title":"Bus Persib Full Strobo",
