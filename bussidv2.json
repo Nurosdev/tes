@@ -83,6 +83,46 @@
       "link_livery":"Null"            
     },
 	{
+      "id": 84,
+      "category":"Truk",
+      "title":"Umplung Bos Galak",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH83H7ullLjMfszxAmYqrAzYCsM5LzRIO1J7ta-hErpqOkqtiS5_nPUttzlKNcL4QxKrO5rk2bM7ZkAESdi68zkMVkxoK_3R5KlP7nFWlLI63YX6bkMQ05VoJffYy0b3x3hoDJG_yVAHJoK6GvA7oF5TbmBlwvMc9C6JoMMUCqaLqTaJOKbDF7TwI/s1600/Umplung%20Bos%20Galak.png",
+      "link_mods":"http://www.mediafire.com/file/sq6qsfd0ke4wcu3/umplung+terpal.bussidmod/file",
+      "link_livery":"http://www.mediafire.com/file/7io6q4a2dqdq9lm/LIVERY+UMPLUNG+BOSS+GALAK+FULL+STICKER.png/file"      
+    },
+	{
+      "id": 76,
+      "category":"Truk",
+      "title":"Canter Khas Sulawesi",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5jhVhdS6lxtARpRAmRbOFzfyhpEIK_Uj_Jr47JzAIawSyihw-YA2SSvmPTL8UDykxjkP2n1mThxFfQXcnzJunJ_EItlifu29pzDO3O7mTGRYB4mR-LNGkoAf6pitWRpgTcWzqRwO9KErdrpf9zgK2QD18ew_xhlogJ74gWbgBHtTOzbRaSqwUKIQ/s1600/Canter%20Khas%20Sulawesi.png",
+      "link_mods":"https://www.mediafire.com/file/oe726yl9i0tuv2w/CANTER_SULAWESI_BUDESIGN.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/cgfzlbc0xkmm855/khas_sulawesi.png/file"      
+    },
+	{
+      "id": 60,
+      "category":"Truk",
+      "title":"Canter Berkah Bunda (Ceper)",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpfUKaJ4rqpXalMV5k1yiq2sWuebSs4UKfpCn-6fL23iLw4U1pSUf4I6Re3n3b4g3-o_UOHB0c-T-f3jpxp5KQYANX302CEb3KN450dO1IsJBgJDRbh7V-EHs9ehbXut2fJ_s8y-jflEL869YkhAtJENY2hRJHMyED1_Jhv3bwdZD02gooFM73jsU/s16000/canter%20berkah%20bunda%20modif%20ceper.png",
+      "link_mods":"https://www.mediafire.com/file/1btoy3wifkrqahx/canter_berkah_bundah.bussidmod/file",
+      "link_livery":"null"      
+    },
+	{
+      "id": 66,
+      "category":"Truk",
+      "title":"Canter Chassis Full Anim",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkUD__cHBZ7oOy3lZE1R_H5GZ3OQt3g9r537iwP_PfEb90EDsbIERUCCjHIoM84tycPfrp_VqN3GJm9PTLHOeCRjK5CzG9mlE9ImFU3U85uWKEDL8bVFlWIX5QtYEKgGKXIWHlbu9e-oQrF0XdBH9hIzPDryAIAqaM2iBrvwQEgkJpDMMPA87ohc/s1600/Canter%20Chassis%20Full%20Anim.png",
+      "link_mods":"https://www.mediafire.com/file/u0e2katzzha7nr4/canter_chassis.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/ltqz4dddyprvbx3/chass.png/file"      
+    },
+	{
+      "id": 82,
+      "category":"Truk",
+      "title":"Canter Antobolo Muat Sawit",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguSZ28nap8WslBZoAbM7B7zTZGkHD5D97hbuEUbsA7n7ZeuIKCyD4hu3Rz0dS6LCAbkV6W-bKxlGMD12LJEiQ8GHT698N5xrOvbY7blBuFjzEQfwqVWxqlpBmjLpdU4Fwf9_IwrwHHZUAxMb8vztS0Nwoqn25XtMgKP2b3OpxF2FKUaai5kMGZ3gY/s1600/Canter%20Antobolo%20Muat%20Sawit.png",
+      "link_mods":"https://www.mediafire.com/file/c38ot9asmozd0tp/Antobollo_Sawiit.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/xenfccebpwrroin/Livery_Antobolo_by_RG_DESIGN.png/file"      
+    },
+	{
       "id": 3,
       "category":"Truk",
       "title":"Fuso Tronton Padang",
