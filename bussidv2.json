@@ -27,364 +27,252 @@
    "DATA":
   [
     {
-      "id": 45,
-      "category":"Mobil",
-      "title":"Alphard Modifikasi",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzR8RNj0MNC0Ayl4zhX9UpOB4aTpy10-DuyiovLLZ2c6TfvL5jr37lTgliYFposDx--Oqf33rqlm73VuTXiMtNkGVsI8psxP7-y43YW74zvFF4G92NSMM_zom08IEYuV5bdFbAEDtkmrKXKLCGVHPSwmvkE65HYYSUNTKdjQifeiy4q971d50_6ys/s1600/Alphard%20Modifikasi.png",
-      "link_mods":"https://www.mediafire.com/file/6aklamr8cgq6dcv/Alphard__40_Sopir__41_.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/u71y8a72rax0o5l/20220214_115314.png/file"            
-    },
-	{
-      "id": 44,
-      "category":"Mobil",
-      "title":"Xpander 2022 Racing Modif",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtR0aKjfEWLGU19Z-aOj-Y7Z7q_3XW6iVstvXFexsMJ9Kaq9q3tH-uNir8YGaNigRp3ddsx0bRzyKMzczVgM2LhpCeYtAsQFbPuAieXGpYvjqKqafBvpT1R6IzmGIuRvIzjonOo90bhHzQRskbIvOy9RrxwkFGwxvE2bZ2yMXt7xoarIRv-u-0DXs/s1600/Xpander%202022%20Racing%20Modif.png",
-      "link_mods":"https://www.mediafire.com/file/yirvliqh1t3hxqs/XPANDER_2022_RACING.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/zpbeicmavu1izoa/20220622_053222_%2528SafefilekU.com%2529.jpg/file"      
-    },
-	{
-      "id": 43,
-      "category":"Mobil",
-      "title":"Civic Type R Mbois",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ZO5njOAU8bunXkAqYOR3RrDloR51mNQj_hLqEY0xXDefOfL_KeGVxhL5YMS7eSwj1bv02ZIn_aKCq-jgH4uYLTFP1wWreP2iM2kWIXnZ3XB8KT3ajFoyWRgtVAGaV-ZitRw2uj4ciB_A-8EYyd5CHVFwMiecWD3oIg0QBUvw-GwiNmEgInMT0hs/s1600/Civic%20Type%20R%20Mbois.png",
-      "link_mods":"https://www.mediafire.com/file/vrd4b7izi6ld8te/TypeR.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/2jos9ruvndlovpc/Livery_Honda_Civic_type_R_.png/file"      
-    },
-	{
-      "id": 42,
-      "category":"Mobil",
-      "title":"Pajero Dakar 2017 Velg Racing",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrOQFE3yekLmvagC3Cz09cfmGheIckkqkR5gm4PJ4A4DNtUFwtlJJ6mrj4sSGYFb0meOfk5HZ7ymW1VQ8Lmw8p2TL_cYKyy8VoGSD8U25WqkibtF0pqOiRq-0_8PWMsbK7d9b-VMQwJbeZkIwWox_Hv4goWbERQT1ALSG5ntPTs9D_nvpPkB_XXcA/s1600/Pajero%20Dakar%202017%20Velg%20Racing.png",
-      "link_mods":"https://www.mediafire.com/file/at76n25xa4a2jh0/PAJERO_SPORT_2017_CEPER.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/n562dze2tpwzuhy/Livery_PAJERO_Ceper.png/file"      
-    },
-	{
-      "id": 41,
-      "category":"Mobil",
-      "title":"Civic Type R Full Modif Bunglon",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gboofKFIV5BkKwXPpZelr00SxhuWQKClC5R-K2IVfiStl_EwlWoOB9MVHGL2IhtQqVQPV_cbr85BqtinaDW-AfpRkgNLJ59qTWCGtISGb04NKSPdwRoQZluE5xJSOJpAQWdvFoenLu4wnXcq1S9VDZk4wiq0Q6JNIbdHLDR8HOWO01s9shcfwhk/s1600/Civic%20Type%20R%20Full%20Modif%20Bunglon.png",
-      "link_mods":"https://www.mediafire.com/file/honwchc72m3b4sr/Honda_Civic_Type-R_Modif_Driver.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/6mvxcx7ip6y5ypl/IMG_20220906_205835.jpg/file"            
-    },
-	{
-      "id": 40,
-      "category":"Mobil",
-      "title":"Mercedes Benz Amg GLS63 2022",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0UmbarmDDZJ31JcsXbuCUXZ6zkBmRGamYYmRdGMyWRnFHDQjvyAgOTU-qUmSI9Ar5p8JuBQmZgeCGlziQn9kVpDhYpqkAHNlCUlGB-OqC_15w2eDSVCS5cgNxezAdk2q7JGB5jusn8L7kyznIhyg0kHnFiyvWVn8zvyfFotTY797T8Px03Spb2Ls/s1600/Mercedes%20Benz%20Amg%20GLS63%202022.png",
-      "link_mods":"https://www.mediafire.com/file/4h3yyhl3g1d1sln/Mercedes_Benz_AMG_GLS63_Update_2022_driver.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/6ojs0a88n1euycf/Livery_1.png/file"      
-    },
-	{
-      "id": 39,
-      "category":"Mobil",
-      "title":"Ford Mustang Shelby GT500",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz-l8OAfU_lT1KEG6a7Wba1YQAytirIsYdEvYRd5nx6KJSoSxV_qCyx7RK0rZZDLodOG_k3FVgeRs4qKJ9Xo8-tbX32e53alc2SYxhXDBXOj98kjr1er2YCTmU5rEumckS9qW3Jr9C23pohXHaFyoxTaqFGPIcCHFiVpZRypsnuwQC7fEmuev-pa0/s1600/Ford%20Mustang%20Shelby%20GT500.png",
-      "link_mods":"https://www.mediafire.com/file/cmff0fvzf0ts14f/Ford_Mustang_Shelby_GT500_Driver.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/xrt2exaaqeyr0cp/3.png/file"      
-    },
-	{
-      "id": 38,
-      "category":"Mobil",
-      "title":"BMW M2 Spesial Edition",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjibTbTLk047-aO2ME0ZTwohRYze_wDlrLqXX0X-9Lknt5Hbn4OceaMzuN0ApSMvfsw1xpftBEz6TcDOyWKZBuuQTJey4HhA_uzyKibV_e00lNn7Fsr6OxFFM84Iz2WjvFppDSOhI4VeaJgPfD7DjDu48SJeltDDdFyyECzf9GuxppfDIKCsYppZf8/s1600/BMW%20M2%20Spesial%20Edition.png",
-      "link_mods":"https://www.mediafire.com/file/4ywadvc056ba5q6/BMW_M2_Special_Edition_Driver.bussidmod/file",
-      "link_livery":"Null"      
-    },
-	{
-      "id": 37,
-      "category":"Mobil",
-      "title":"Pajero Facelift Ceper",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSL6mDu3huSCuCSKzPoi1yTAErWJ6cDEINx6EHdwQ2u0oovWlwTbq1IHqpefoqq3imt9XONxruRBJ2O9Rx_mkHecLbOGbRMwoLYbivFazbvKM8zY877ytcx27-S7tN99rQ59jNNpevHF8fKN5P96eb5QFJTMNUQ6VWBgLFcUWj36KfGzuGIJMA_6E/s1600/Pajero%20Facelift%20Ceper.png",
-      "link_mods":"https://www.mediafire.com/file/07rlgbonsfkv0jf/PAJERO_CEPER_BY_DSP.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/bvcglv099ndhlfk/Black_edition.png/file"      
-    },
-	{
-      "id": 36,
-      "category":"Mobil",
-      "title":"Innova Full Stiker 2022",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTshE2HIjQZOLAeNHENtQ1IMq6D8ImoB-r4FugVZ85D-xP8O1emYeCWfqTTJE7pC3VQz9iv2HPjTAG7m-SilYhr3FcuhDLqWASwN1Ww533Gt0xdB6E1lorfLWtpO0fx3_KXYb3zqZHxv5d2IDK4_tDB-KepC_GQwjjPcY028FqbzkF8JIavC12sjw/s1600/Innova%20Full%20Stiker%202022.png",
-      "link_mods":"https://www.mediafire.com/file/ccgqd35xitpg50y/ve.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/iq4h3ellcl6pulf/Fake_Travel_Jhock_Official.png/file"      
-    },
-	{
-      "id": 35,
-      "category":"Mobil",
-      "title":"Fortuner GR Sport Full Sticker",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj83Gcgrg5BLy8OYLECj47_ewlOJHsakbAkwSJlC0nTTnNSd9O_9zV3C5W3i-Hui86_7-V8jvJJY2xqIFnhVpjGigqQJ8rP_8F6BbclYtnecGW3Ex6J0unOYU6izgBrAZNduJqENI_tmFeEEfL4SSAvsQXq0kbULrb3-Z5b-_nnPTaYcNKniD2KnJo/s1600/Fortuner%20GR%20Sport%20Full%20Sticker.png",
-      "link_mods":"https://www.mediafire.com/file/d7k1cm3ys6b0w26/gr4.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/oj0qozvokkh9o1n/FORTUNERz.png/file"      
-    },
-	{
-      "id": 34,
-      "category":"Mobil",
-      "title":"Xpander Rally Lock 2022",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFoiD_1fdIXgLkWTlR8QHbjR3KB6T9RxAC8C355cpm1sBEz8jQeGCsvbbQuCEpMvBJJ_P0fzai31rKG9W44rd2VmV8kGGiZOMXgiLHpNpftz0e1X7F0k6d8J5Zt5ABWpbdDtI3Kk-ct_KwM5uFSiZvb9G2ZWlzUX6Q68lzhxMAg3XLtolferB4Qa4/s1600/Xpander%20Rally%20Lock%202022.png",
-      "link_mods":"https://www.mediafire.com/file/0jlot5kvvh6xh7s/XPANDER_2022_RALLY_LOCK.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/bsznjsveisfnsoa/livery_xpander_rally_look_by_Fhr.Design.png/file"      
-    },
-	{
-      "id": 33,
-      "category":"Mobil",
-      "title":"Fortuner Racing",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbUNarwoNJ5ixyhsjnQNNxsDnEusYmRZfsayt_WyBj9RlJgNgZu4azezYinwBpx8qWpUpSv9DBv672BDbzCzriZlK_Hk9w5wW5U93wUUW9lAb-sOfKXQSb9wopZ4DT59fTFzH82tfVQA-A4hxtPixNSpX2oBNFlLx83hcpvCsixRREQQubgSfp5lc/s1600/Fortuner%20Racing.png",
-      "link_mods":"https://www.mediafire.com/file/djy67mfvx7hlh61/Fortuner21.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/305hrh2nrc2izmg/PicsArt_08-26-01.07.29.png/file"      
-    },
-	{
-      "id": 32,
-      "category":"Mobil",
-      "title":"Yaris 2018 Joker",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD1Xq6lldVmWvVWs5liH0a8kmQtq22d9cw1SNxnJRPvPtTeR_A3mS4upL3oonTWqCnc5Uhl5TeOH4U9wd38v_R5a_A6oDPZos8oLT3C8K_zSPn81N4gPR5w2OsRyxvTdwaiOs9lk_kFtOH9cZP1V_oH9RknAGyTJQzve0bB8_olqsOMf9jtNx4Xv4/s1600/Yaris%202018%20Joker.png",
-      "link_mods":"https://www.mediafire.com/file/v8vtmxilzfdsgto/joker_racing_driver.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/alirmz0oj7n6iaq/20220327_121651.png/file"      
-    },
-	{
       "id": 31,
-      "category":"Mobil",
-      "title":"Rush 2015 Modif",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVsJkx9w2M9goEk21RT3g1JNaxwOyYvQxvuee9CdBbWNZ25w59McW0R4W1mJqq5ZguTxmw1F9d2yQXsOUolKxjaSAaZE4Ty8tNCo8GEGA1yUTJ737JS9cYATwDKwthbs89-kKmAHdfo2MLWz_u-AmZRTKR-xGIg5dsSvsAcjcyN4UEc-eSsCvX-OM/s1600/Rush%202015%20Modif.png",
-      "link_mods":"https://www.mediafire.com/file/fmjj9aty44mw8oo/TOYOTA_RUSH_2015_V2.bussidmod/file",
-      "link_livery":"Null"      
+      "category":"Bis",
+      "title":"Hino SHD RK",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWfuPhswo9w-02pD3AVF8esbTuiBqOSUMVFYFO_GVmjmQggTcykadQMEm9Wc8XQYH_7pzqMrUoLVo6N2_dvK2XMsUnQihtj2NhbrrTI_ly0RKAOUM66Qe-OB_cbgazMJXiGbYbT6rXdqzeGfaBqCMc5Rjq-2WSK-ReYCJpCbkj7_662JwAyqvGWDo/s1600/Hino%20SHD%20RK.png",
+      "link_mods":"https://www.mediafire.com/file/fb4o4s9gmdeelfi/VOYAGER_RING_FULL_VARIASI.bussidmod/file",
+      "link_livery":"null"            
     },
 	{
       "id": 30,
-      "category":"Mobil",
-      "title":"New Suzuki Ertiga Racing",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTw-bwijJSm8SkooPtUdTnfYBtSPO45TEcSQReJwuj4w3qG4yarWTsdtztNSFFrNyc1PQwZF-aiXVu_Q3yBmaYd9NPWK8zS6rplgsgiJ0Non-Y-V4fRx_YdG9WNFwGLU5e3ngcasqBEKf1LICuCr5F3S2GleDDKAUGXD3s93Dw0FJanSOdiZHCKBg/s1600/New%20Suzuki%20Ertiga%20Racing.png",
-      "link_mods":"https://www.mediafire.com/file/v0a0uwfwwm8nz9d/ertiga4.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/5o9efseg107yq1b/1646909787876.png/file"      
+      "category":"Bis",
+      "title":"Avante ES Mod",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMWOhbb32qpsenztmThuecD_g07cKuH_anl9rljpMZwEfT1YmtUuxxWsenTznJOH1Srwal2TmbLa9q40FHnGqL6l6XkCWVDkzkLgbAC6RC559IPDSK_2Y6E_n_WMU8SjY80raTE_m9cRH_zvq0e-zAi_cYrC1wDg6eeWa_Kr6VM7AcIGAAII92JYE/s1600/Avante%20ES%20Mod.png",
+      "link_mods":"https://www.mediafire.com/file/skma4ytnog3b5ag/Avante_D2_ESMod023.bussidmod/file",
+      "link_livery":"null"            
     },
 	{
       "id": 29,
-      "category":"Mobil",
-      "title":"Ayla v3",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6LwY5WweXATUoeGJZUSZxxNXwFCM3btdWnyDTMueInzmCfKd9x3wGU4sY204iJtnys5cKdlBypXbWDAbhzo2StJhVwjs7fXs31lCLg7BAdCbyeMUiDptwKINXm2F1elGQ-J81MscXG1RmN_EzHroWiK5_G3H1XMnBqxBemx01TP0yQNbsI_mtVs8/s1600/Ayla%20v3.png",
-      "link_mods":"https://www.mediafire.com/file/3ndf1ckfunqc5hy/DAIHATSU_AYLA_2020_V3.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/dhecsz2wmkkg2wa/AylaV3_%2528Update%2529.png/file"      
+      "category":"Bis",
+      "title":"Marcopolo Paradiso",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiz533ZNBytVwoCkN_nuTj-O9GiealPCLhq7q2_BpRFFv5z5qCftOOFnnDQdZG07y8olIahkM7O-UuN5STLrXHKFBJzvEkT6uQKSMotNqu_O86XdklPvxVkwna-BcKElN_SMIyNlSdBYsOywY9HvhT9BxkmgkiA2Qxf6y4vblLW9iJjEaN36kwkAc/s1600/Marcopolo%20Paradiso.png",
+      "link_mods":"https://www.mediafire.com/file/us9fh2jvs874hdj/Marcopolo_Paradiso_1800DD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/xb5pftloavbb9mz/marc_by_wesley_rhavy.png/file"            
     },
 	{
       "id": 28,
-      "category":"Mobil",
-      "title":"Agya Racing",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTiy8zydj4dR20uTc45AC8U7TznhleZFsQ4YaSS5Lcb5FjUSRkb0fX7GImxB9WUyHYM1kpovhTYcyh5j-DWr1NhHpMu34sALfCL6aJ7OS0bjXzlCFgumLukodQksozwpovacHaXoZPfFsBhyp3DbMY9tJptZNJ3nDFQQLrOyjNZzd1azvFD-LPA8/s1600/Agya%20Racing.png",
-      "link_mods":"https://www.mediafire.com/file/jrpyezanwz51kf6/AGYA_MODIF_BY_DSP.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/h8z5cins62aw6w1/MOD_AGYA_MODIF.png/file"      
+      "category":"Bis",
+      "title":"JB3+ SDD Voyager",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwqJ_h2ChTCmzoYto8noudbiN8K2doF7avS8LeT7Hqs8VS6HSzcGef5A2Y0jJQPFGVn8KaatcBykajQYwN4CHN-x1NJU3qjoUZY6RDGyaCH1pB9ajUObC7ag0AeRORhGTBuXzlJmEZ5OMfeRD9EblhQPdP9nT88McEgE5oRtNO4JkcIGb26qh_gvA/s1600/JB3+%20SDD%20Voyager.png",
+      "link_mods":"https://www.mediafire.com/file/rcmnb2dwh34zoj7/JB3%252B_SDD_VOYAGER_SHARE_BY_JODS_TV.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/sv5yzd58fq80irk/Pandawa_SDD_by_Blahbloh.png/file"            
     },
 	{
       "id": 27,
-      "category":"Mobil",
-      "title":"Fortuner Street Fighter",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivTRunNAPCGL23AhPYp0zhPSEmWRHaYI-AnO63TVmPR7rRVvTb2ud43nR-MZ4ww9sGodraPXslr3343Pj4ZCQPNM6LTYkb__iAjDNGsdSu9QwBu_ZEaDSvrufiXMCd6jzmnMeUIXmoPhz0Rk-ivVP44ff7XPzgLX-Tbk_rcCCWLrT74nMqCahStpU/s1600/Fortuner%20Street%20Fighter.png",
-      "link_mods":"https://www.mediafire.com/file/l2yihxlaixajwfr/Fortuner_Street_Racing_Driver.bussidmod/file",
-      "link_livery":"Null"      
+      "category":"Bis",
+      "title":"Jetliner Double Decker",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglc5qR9QC2_ATJoxalWRpdcK_p5W2nhOaBxMLXrPJ8MDAa94Z7hobPtf-_WpfkmDyx059T8VcofqLhnbPqwE8wp1h4vWbgcydlJTxDHs9OlYp4nQabkdwSXKvVP7tKcXt9OJ1Jjr6PTwgAu75TIkJtmr3O6AJUZ7R1iXuwkip9jYh3GD3WFua0T-Q/s1600/Jetliner%20Double%20Decker.png",
+      "link_mods":"https://www.mediafire.com/file/dqw8fqfcgrbmbwt/dd_jetliner.bussidvehicle/file",
+      "link_livery":"null"            
     },
 	{
       "id": 26,
-      "category":"Mobil",
-      "title":"Camry XSE 2020",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2yvUXfYspaBO7FElMX1xXcpRdZFYCshIkIJHMX-1afDUib9cQ6ZJAQp03eFqL6vqQEPW3kksIJa9btQ01Y72C7QBr1LlNdcp6ijx1ooiSRtKLvozPJkpJFtSZLwqNOxTBTUVzFNLDIWqKWVb1V8Zt4K2Q9eRrTZVbTz-k4SMiXkn08nu3rJppoRg/s1600/Camry%20XSE%202020.png",
-      "link_mods":"https://www.mediafire.com/file/rup2ns37tnf4l73/camryhybrid.bussidmod/file",
-      "link_livery":"Null"      
+      "category":"Bis",
+      "title":"JB3 UHD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7S21aWJbSQhveHN8NfWFjLw2bc6kIsmKkadWAAnRdIp6htIp4CUI7DOBbECEYs5nIn8JpEZ-NOspeGgB1t_r8M6Jbr8aIr2DQ9DC6MG5RPzVOjMKY5hlnSj4DWpTJSUaLq6o3mQh3NoweloCzIsty1W4FL-P2rqXqpHR5w5EteHJiKWY1dJs65MA/s1600/JB3%20UHD.png",
+      "link_mods":"https://www.mediafire.com/file/ue40ie3f4kdlp2g/jb3angga_uhd_dop.bussidmod/file",
+      "link_livery":"null"            
     },
 	{
       "id": 25,
-      "category":"Mobil",
-      "title":"Rolls Royce Ghost Mansory",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGIPU-x_mX1a5z3c-5zc33-avEBbQ9BJ13Y7Bm7aBSp9KSbkioQOHEQmR8KylKjeEO6_ydhrAB9JqpAPWWRKJBUgsPqcuOuRT5M20xQBTCH5NmG8MNEOfUjSh8EyiYJFSL2OzKoedbp2HmH3_Z7GMiUuhc22042fWdnwACgvtf7G374vz6H-S5fYg/s1600/Rolls%20Royce%20Ghost%20Mansory.png",
-      "link_mods":"https://www.mediafire.com/file/pl50j9o7fg4z2l1/Rolls-Royce_Ghost_Mansory_by_artur0777_Driver.bussidmod/file",
-      "link_livery":"Null"      
+      "category":"Bis",
+      "title":"New SR2 XDD",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-QE8wIOsqXTuBWYYLQDuQ59C9Cqt7PKlFcBuVBzmnrqamYmEsFyPCqRikw0Bey7OrLAHQAxzRPeHsw792k7bM4LWeyQ8MDHid9uRP7J33HibdolzGvyA9QUSERzNwwUmWg5Hvf1n9wYda0GjfMF4OGdXy3Q7T2QILRUdiFg8Ifh04yfr6kgbq_iU/s1600/New%20SR2%20XDD.png",
+      "link_mods":"https://www.mediafire.com/file/sj4y9mxmzuyir5g/SR2_XDD_SHARE_BY_JODS_TV.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/c47jny7exh8ovgd/HJ_BY_SARJANA_BUSSID.png/file"            
     },
 	{
       "id": 24,
-      "category":"Mobil",
-      "title":"Audi R8 Sport",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdimH-FVT6riQdF5-01Z7ct6gGNCTxra80IHgT31YcEqUZQO0C74IwQC-MKA0PAQ4zZWePiEoDb7oAgf1gUQ0pVwPfd9jqyMuNbBKRS-EVsRxebCvOyLkXjIQfJv5LvK0ud9hUYihdcuF71aJs6derTfGwg2U98yTHaEUjQsQZHninAf3X7oPBnfo/s1600/Audi%20R8%20Sport.png",
-      "link_mods":"https://www.mediafire.com/file/63fpe1lko52vjyv/Audi_R8_Sport_Driver.bussidmod/file",
-      "link_livery":"Null"      
+      "category":"Bis",
+      "title":"New Avante D2",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZK_TzUckTwd5bNrv0ujiWxTDzIlADddEIuYpr0qFqIEhveEKLJRbklJHCa4oEQxcGDzZGeKlHg7C08ljfkiOapReJ2lv9FtieGYnykCgauOdolPjdT6bMNERPC2t-0x4h8dtJ18TrwLBpl_R8zSFVbw0-UxFkkphq2kkMUDTBJnVwqYdPdxjX4jQ/s1600/New%20Avante%20D2.png",
+      "link_mods":"https://www.mediafire.com/file/3q9orb2vnhci65c/AVANTE_D2_SHARE_BY_JODS_TV.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/qq1d34m7rc6t12q/sinjay.png/file"            
     },
 	{
       "id": 23,
-      "category":"Mobil",
-      "title":"Nissan GT LB Works",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLhv6bph7EQmg2GQ_Om9b80XE2mKY5UK-yfvirsR643quj6EQt-14hFk4npXx6JLeEv5T2hSuDMr_bY88qt3i9Z2I269fJnYXAh7l5QrjNFWEZ98xAwJhYjQiYP4pcxm4Z-Vss4miIZ42dDl8e4xReslwsZy8S8BxocVZhu3Q6Vr1oTl8QEyT_HIA/s1600/Nissan%20GT%20LB%20Works.png",
-      "link_mods":"https://www.mediafire.com/file/6das9qrn1zdza3j/Nissan_GT-R_LB_Works_New_Update_2022_Driver.bussidmod/file",
-      "link_livery":"Null"      
+      "category":"Bis",
+      "title":"SDD 4 Axle Volvo",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1pDONW6O3pfPBrpW2TtrVNcboyJpViZLxR3AzRVFjQZLFs0MLP-CH4aVV9tEQkDzS_Wk5kMk1LvXemgnpZjbTd8JVPzDTlwWzvxpja4pxWDQgloLlCTmPZcGeAoN8IH1XoS0S2At_FPQ7NU40RT_tjR6OC4vvtw4hbfASAVG0T_MDLaEGq_h1Dps/s1600/SDD%204%20Axle%20Volvo.png",
+      "link_mods":"https://www.mediafire.com/file/1ffkm179n53wz38/JB2%252B_Sdd_4_Axle_Volvo_B11R.bussidmod/file",
+      "link_livery":"null"      
     },
 	{
       "id": 22,
-      "category":"Mobil",
-      "title":"Yaris Bakpao Merah Racing",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX1sw3jDslh3JKoV9vre0u1MOkkBxDH_tA-GpsOTX0gXDctEB0LdQvoj7lgKeabPoHMjP8Umj7muovihadHR7YO7M5SygXbB4UiosNx_BU0aajoDfq9SqFxdhQebYzMmPzsXS0qxeZslg34wUGcj5qOUwZt2N1Ebi-gXE0JFej3VGC6Ysu_tIm5rU/s1600/Yaris%20Bakpao%20Merah%20Racing.png",
-      "link_mods":"https://www.mediafire.com/file/4592a5w5mps0b4d/MOD_TOYOTA_YARIS_RACING_BY_AZUMODS.bussidmod/file",
-      "link_livery":"Null"      
+      "category":"Bis",
+      "title":"Srikandi SDD Full Anim",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglkFLg7xzOM7B5tW8ds3eW-7AoEhTHtF_n0tZTLpIhS3VIJS-VdkwOZXIqyMkU5OFWHJ83pSewNhtogwbIoNP18qr97bopjQQTXh5qQtZ1FuFJUqYaJ0i6zeA0BMoTmDZdoLkjiSIK6wkexmLA2Ol7QJK-OuR3lrg54hnRbFIKpIvXfVVIcEEmTus/s1600/Srikandi%20SDD%20Full%20Anim.png",
+      "link_mods":"http://www.mediafire.com/file/ppbsrqwtw85romn/SRIKANDI_SDD.bussidmod/file",
+      "link_livery":"null"      
     },
 	{
       "id": 21,
-      "category":"Mobil",
-      "title":"Ford Fiesta Rocket",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxCjfF9NhD3F2oQOtBt6NvclMeXZ03mdWq77qloZ9JMchCZFZjrehqpOHuCuIrlgaGqM-bdhJlMybm2DOzOdabOMjzIM9sr66QS3jIjX8LSEGnsjCiMGHL5pY3P8YdSmfbpBN8DAu1HfBxp3I-nO-Pw92axUcxbDji1Q1Do4bD0UEnB8mRgsOu3wE/s1600/Ford%20Fiesta%20Rocket.png",
-      "link_mods":"https://www.mediafire.com/file/pn9gynn3rg5wwvw/Ford_Fiesta_Rocket_Bunny_Driver.bussidmod/file",
-      "link_livery":"Null"            
+      "category":"Bis",
+      "title":"SDD Voyager",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9TFG7-arS123e5Zz6Twfg8wYuXqo8eXKBXEGLPJsecwYE0ZW5VRfZQ9Mz5dP7vQoKORdoc_IxU9a0FsN-NdrBtJ1IY0YmnU4eFRdhXpeBR2xo5jpvZ7XF0X3GIoWEf1xMz81k4qkMH96BdadsL1E8zrBD1rvOZEE7_junM9_wGPTJ7sPz1z98BPY/s1600/SDD%20Voyager.png",
+      "link_mods":"https://www.mediafire.com/file/js4idaohezwm1t5/SDDVoyager.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/srzluhnkp6sp9em/SDD_VOYAGER_-_EKA.png/file"            
     },
 	{
       "id": 20,
-      "category":"Mobil",
-      "title":"Yaris Bakpao Modif",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtzNyz_YkvT6k4h7a97wJDgttUcjOK-LUONws9ObPhHM-ltCFw-fV8wg76cLyacUoq_hjNs5eX7OIm4AEb1zyeH4pugk7WIjKEhkqTjKGWzPuJXYjD92JkrV2DzsnXK3gHvhImGoreJ7Hgi7J1BvpJr4vuk4EaZ4EGL1-9RkCM1FmnkBb_9ELKRNw/s1600/Yaris%20Bakpao%20Modif.png",
-      "link_mods":"https://www.mediafire.com/file/rtk5vegkyrz235w/MOD_TOYOTA_YARIS_RACING_BY_AZUMODS.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/x1mv14nxauag38x/PicsArt_04-16-10.34.07.png/file"      
+      "category":"Bis",
+      "title":"Skylander SHD Full Anim",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiHwRnIfDlKDftKJzvZAcvucaJsiwdfC4zw4B083Vy1K9dykcaOI_JjZgtFKJGu0jzP_I1rZV1X7OHQNTd7SVPD3uIgmqF14zjlP9ZerXKHMfwykCQGDzyWkPaEdvRT9i_K8l7xgLi9tLNj9OOWQkjTzvZABbDmU1ApkZS-64mLuQY8DAemb4fu6o/s1600/Skylander%20SHD%20Full%20Anim.png",
+      "link_mods":"http://www.mediafire.com/file/1oq7dyd6ympsl51/MDO_SKYLANDER_SHD_BY_KODHEL_GAMING.bussidmod/file",
+      "link_livery":"null"            
     },
 	{
       "id": 19,
-      "category":"Truk",
-      "title":"BMW M4 DTM 2017",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkJ7N1-X-2X3R50I8UZEy-x2ciLn7NA11lVB67DyRVffYwgev8KGIyCEyTvIJSy7Jl4YAxyALuqjnmnNAL-1uJ55dDwI85k9pq0ldE-1lcciyo5wMtcvBkfu3YrgAAGzyoheqbZwhN_oDmbNebsxO78n9O0xpqhRTGDfp9IqvjvBV3Q9txk-NABNs/s1600/BMW%20M4%20DTM%202017.png",
-      "link_mods":"https://www.mediafire.com/file/4s7wu75hve8xi4u/2017_BMW_M4_DTM_Driver.bussidmod/file",
-      "link_livery":"Null"      
+      "category":"Bis",
+      "title":"SR2 XDD Old Version",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir2Z2wQFW123Yn-1tzCXcBGs832lK_jQqa-wrmPG3rSyEHU64b5d-IaUJoMQ6DMwm7kykARxjoRt_l6n8RA_PS-k5X3rGdslYrdhZaVtoKG7-0Y19FhTmBVjsqeYTTuunO5WskLGAocS9sjLkLEWoeXzzKmdtIlC5UIMd_a5Y1ZxSDZpblWyaeMys/s1600/SR2%20XDD%20Old%20Version.png",
+      "link_mods":"https://www.mediafire.com/file/sifxb0u1csolu8j/SR2_SDD_by_ZTOM_V3.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/f3klwkkzcvvomcb/XDD_Maju_Lancar.png/file"            
     },
 	{
       "id": 18,
-      "category":"Mobil",
-      "title":"Suzuki APV Travel Full Sticker",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj6A-cep8lL4L-vPjgII5yUx8IHDroEcg1kgyTJB2LZwRvhijEmd5BDvPDWBIF8oMPpJKu5_I5U6XIlUkCJkWHK_DyRUwT3IX5F8SrHx27zwHsuYwikEb2OmWZaJpmREL3D7o-nYhzg7YERORR4BLlWmciCsk9t6hlaYvVgc0cBjD6wkfGgVPbKcE/s1600/Suzuki%20APV%20Travel%20Full%20Sticker.png",
-      "link_mods":"https://www.mediafire.com/file/sg6gjg6ni6nqsd8/APV_CEPER.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/u95c3dogcetby6r/PicsArt_10-30-12.02.18.png/file"      
+      "category":"Bis",
+      "title":"Skylander SSD Full Anim",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFykW9hj89tfKFECVFbgCIG1uHriCGkDOTTEknfHfgg-b7aJrtHGysnp7ThCSsGEODcuH4Rfp_gHTXgomUCxJyoKlmO5h3sN3oKM53_-HN77RV2VblYzbAK6Av1ZKo97z8i8WrLa7LieeyNkToJbLVsUuexLj1ucemjhGf6TEHmZZjS4tJuj9kVnc/s1600/Skylander%20SSD%20Full%20Anim.png",
+      "link_mods":"http://www.mediafire.com/file/6xob2k0xuifeuy2/MOD_SKYLANDER_SDD_BY_KODHEL_GAMING.bussidmod/file",
+      "link_livery":"null"            
     },
 	{
       "id": 17,
-      "category":"Mobil",
-      "title":"Jazz GK5 Modif Spoon",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpnQdj0FVP7BjKeUMz5gsONh3mu9iQeakd-YUAYvUMt95R-lrvYi1ZJo2no1o0rJJ095rTuEI0TnmRq1JxHuflI_2Fq0Rb4ecsGpoqS7HcQof8X0C1kjst-RTsv_Fm9ms77ygzdPqvq3wu-BnYMUKfOn7XE7T9BAs8mAGdWwyTwyVXL3GhaPeRKVs/s1600/Jazz%20GK5%20Modif%20Spoon.png",
-      "link_mods":"https://www.mediafire.com/file/3n6gxi0dnewsv7c/gk_modif_driver.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/bh00ybhpvk8rbpg/liveryspoon.png/file"      
+      "category":"Bis",
+      "title":"SR2 XHD Prime With Crew",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfUEJ6LlQIOqsQVGDdbdzSrMT3KGiVYZv9QPzCBzyaGfsp-DdOVQBpu_girnF31yZuguC3HHrnxevu9u6zozh5XJpAAwfYx-Q__twb4NvDxcxdfoIVtVTuKozUIJwk42kN075Cmyle_3Rf_XYBob-6YG4mB0QCi1A4Hq26wykeZVai8Q99CIOv5nU/s1600/SR2%20XHD%20Prime%20With%20Crew.png",
+      "link_mods":"http://www.mediafire.com/file/gmbsei3ckc39c9z/SR2+XHD+PRIME+WITH+CREW.bussidmod/file",
+      "link_livery":"http://www.mediafire.com/view/a015fzlgw60804g/PO.HARYANTO-2.png/file"            
     },
 	{
       "id": 16,
-      "category":"Mobil",
-      "title":"Avanza Rocket Bunny",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1xnNGtyb_Rth7E-t2qDFBeA0to9VehN7fAp8rwUK7zuUL3NlP93F-QB8Jx6-3C85Kd0GGYmBJt1bCz6Y1-3GCUxVb_9DG1UgIfdPeoSOXqJDApR6HAAz8xWiBNYVffYCaxslTNCeCoQXXnQ63za9omiI0ro0TzV488Iqm330_hDGCSRGpwmPE370/s1600/Avanza%20Rocket%20Bunny.png",
-      "link_mods":"https://www.mediafire.com/file/xh6n5cuafq311gi/Avanza_Rocket_Bunny_cvt_MAH_Channel.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/zhbyc4eqovughrf/WHITE.png/file"      
+      "category":"Bis",
+      "title":"New JB3+ K410iB",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgh3FZmPmltsLTMYIKxlbl99vDJWrSWtwqxvlm_QdU74izZhoAYPc1ZFOqmJCHYezjFlCEl0AqPADxeuOCkXXiDB87obNsFCz7qzyApZbmTz5G5ks74u3kYkXNr2lfulMQ-xkXP9rbVEhsi41JSbdx4cNin1dx__puc6Rb6yDRPPslkLr2htjR4Qw/s1600/New%20JB3+%20K410iB.png",
+      "link_mods":"https://www.mediafire.com/file/9wt320l9yipcbsd/SHD_SCANIIA_K410_IB_STD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/hz3b6lgkisn5yq3/AGRA_MAS_SCANIA_K410.png/file"            
     },
 	{
       "id": 15,
-      "category":"Mobil",
-      "title":"Jazz Custom Racing",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivtjQSrwObiLLBf_00bWUWXXnjRauf0mVPDm_qgIGM2U7DOBwtZ54TjEg197YdWUbVj-BDM_U5EFalYQCg2Ud29fQuCX8esyO5j_meZueRLWf8Ztnh3xhxbeB1OFSAQ6Tkrjr5btmKjQ0bTFJkEKtWrI49IbjadZ-A4sarCMh3eZh1XyY06Be3xQQ/s1600/Jazz%20Custom%20Racing.png",
-      "link_mods":"https://www.mediafire.com/file/hgrbbpkeyqr3upv/Honda_Jazz_Audio.bussidvehicle/file",
-      "link_livery":"https://www.mediafire.com/view/sfxa6vsr1q2traf/3_LIVERY_JAZZ_01.png/file"      
+      "category":"Bis",
+      "title":"SR2 XHD Ece R66 Velg Racing",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2sMfoLMPZFDP5x_FnfW8XTptOdmHC3A3qg5iFTZ7MxxkpMDAhSH2wLqj0QsL9vrIzd0lHZca9PThZqQg2uubmyzr4PZgS8Aro0ApASe-lmeaBd6U-Z7ZMniSOz1IDj0AVVqTiYCOtgXv9uuSNEdJmjFTMjklfe0uoX8NTlBMqvZ0lXuChGz4wLcM/s1600/SR2%20XHD%20Ece%20R66%20Velg%20Racing%20chrom.png",
+      "link_mods":"http://www.mediafire.com/file/jdk6wpjhapb0jwo/SR2_XHD_Ece_R66_Velg_Racing.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/s01e6tbp7p7xs0z/4%20Putra%20Jaya%20Trans.png"            
     },
 	{
       "id": 14,
-      "category":"Mobil",
-      "title":"Innova Diesel Ceper",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0XxWtsiwEZwugg6nxfynJSFv_wa9mJw1W0YFI1Q7CkNIOk17sXN9YXy6QzWvdMmirRE4Y6g8QVusxO-X4-I-fmx39hgb991zDNZ9wZBup2U6tRwB8Ehzei-KfSkjgm01LonLku3atODf_44v_KAToijfKK7M3xRUOURmWveqOTozQ59N63QculhM/s1600/Innova%20Diesel%20Ceper.png",
-      "link_mods":"https://www.mediafire.com/file/3eoqmnshi8h6wpd/Innova_By_ZillaMod.bussidmod/file",
-      "link_livery":"Null"      
+      "category":"Bis",
+      "title":"JB3+ Full Strobo",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyGnMjejyDLnE2Hy6aj62h01pBuLKBAiJbUsIIFP4bO3MayNb_PiGQAOVjQjXn4JjMuaFgESZOks4qsjIGVtlhyuGIrLwPE27MtglvmTJZ_M60vTM9h1i-Muh2UO8CN8WRR8IY-ex5LY2bNMMOHns4RIpgkYNrCZq8Xk8T1KYmMnbO7tq5DKJSV8I/s1600/JB3+%20Full%20Strobo.png",
+      "link_mods":"https://www.mediafire.com/file/wmv4t0zibpcs2oc/ALCOA_FULL_FARIASI.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/ohgdlpuim4pngx5/Black_custom_DROGBA_by_Bony_Bdm.png/file"            
     },
 	{
       "id": 13,
-      "category":"Mobil",
-      "title":"Yaris Lele Racing Style",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsI1gnR7CNTquAeKoLlaG3b0O9VEYzfRWC6DAY0t_Jzc4P3_xkUooEOPCKABcASQnd_zuocrFgKVdW9qUnRX8sxmvTowUq2s4CclcBZj2QFoWWU2fE4yh47RwZ7IFqBPi4LOsjz_bQzgfZmyxryWl7irFmWI-SVSwPhbYMva6sktnJIEyVyINjRuc/s1600/Yaris%20Lele%20Racing%20Style.png",
-      "link_mods":"https://www.mediafire.com/file/nqey319x7hi9q6e/MOD_BUSSID_Mobil_Toyota_Yaris_2014.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/vufzbkv18mtjgrv/images%25287%2529.jpg/file"      
+      "category":"Bis",
+      "title":"Rosin SSD Detail Full Lampu",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxDLS6RyiVtNVhfxhVZqyRlxF5DmxRRtxqD8ft_orwKlWcYP0Lm-3bMDbibr2JUELNQ_iSulBw7FGko_UtPOxa66fZHiAjqQpRQ2IcDTNhYEV6FlByMkveS3QgIMATeA3ANL2Qou3ojFR9DUQWpkp8JgqQjnKdgjyeYniukRX-jvqJbtJPrqzxVeo/s1600/Rosin%20SSD%20Detail%20Full%20Lampu.png",
+      "link_mods":"https://www.mediafire.com/file/5d5jklwgojthdb0/sdd3_voyager_winglet.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/8gkaesfr44hbhxq/Rosin_SDD_MDC_by_Blahbloh.png/file"      
     },
 	{
       "id": 12,
-      "category":"Mobil",
-      "title":"Civic Hatchback Type R 2022",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5OslWF2nZa1TEGHjhM3-WHqZLbsWo7aFUl73OZuFOcmcw0rfdBqPjQaYWy7MVGJa6h4MEojNBbe0S_QPpoL7UsUCOQOxZvRQIhJ9tfvqe45AQL2inu3f85lOvmCZGS5rL2eWozuyS_wuiTQEs2F2rbnp4awJUYhdNnBCBmN5jCK0OeV1rBjzJI6I/s1600/Civic%20Hatchback%20Type%20R%202022.png",
-      "link_mods":"https://www.mediafire.com/file/4agzvxkby0qajs1/Civic_Hatchback_2023_Type_R.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/y3uvk8oqe5g79rn/20220905_190602.png/file"      
+      "category":"Bis",
+      "title":"SR2 XHD Ece R66 PO Jogorogo",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihcXXZKPxg3opV5C2Byl7pmkoXOKV_vhSc415o8O9Ap9ZvOfpAfNJKFV7Ae5KoqjnFjeR7KbZspFMahQx2QEuTJ6lYe9W7dt80buHXBrfCG--peU5rtb0wgDQyKM8gDHgzMAJGRMIeEdaOe0QUCtGnAq-EK2ph_WcvGvVRwy0PxD-c6d3iRMinhUA/s1600/SR2%20XHD%20Ece%20R66%20PO%20Jogorogo%20new.png",
+      "link_mods":"https://www.mediafire.com/file/9pwn0kc3x3v311u/SR2_ECE_R66_hino_standart.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/xd3desu0zc1b4ut/JOGOROGO_PERMAI_SR2_XHD_ECE_R66_HINO_WSPMODS.png/file"      
     },
-	{
+		{
       "id": 11,
-      "category":"Mobil",
-      "title":"Honda CRV Modifikasi",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjizp3BXfnWfoAtvYxcL26Rv4ok_zK3oEuwdTW5VkMxDjPdkqxmzi3zY29S39oKmgafL1Y2jiW8TA9Va3cOicI7ao_T_poQzlf2wP2ynp-qQ2LfH-Zk3SZTwqnVYBocildm5tGFMXzH1tUS8wlt_5JtmKi7fePm40EO3rfjpZ0W6mlM12o5EL_kbXg/s1600/Honda%20CRV%20Modifikasi.png",
-      "link_mods":"https://www.mediafire.com/file/wywmfxkf4mdbdfm/CR-V_MODIF_BY_DSP.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/hxv7ve6zyoinapr/White.png/file"      
+      "category":"Truk",
+      "title":"NMR New Qinasih Bunglon",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBosHtN8LCMs8u3odcuSgl-lUI22TIcBWwk5gv9VSW_4EzWPFyNzzMQU0JWlEYn0w8PFOw-84i1U9aEQ1XFFN68pRU-MMH9UDwrMvTkGQ5SGRxzOQgATpuGXyiMXySJaL5a3WzIesWrRicPE249hm0GCjIA073OxxWCtoaAK8vD-qjE-qCyq8F9cA/s1600/NMR%20New%20Qinasih%20Bunglon.png",
+      "link_mods":"https://www.mediafire.com/file/wwwl0hld41f31ie/NMR_QINASIH_BUNGLON.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/k11jdkp8hae0wx5/QINASIH_BUNGLON_TERPAL_SEGI3.png/file"      
     },
 	{
       "id": 10,
-      "category":"Mobil",
-      "title":"Nissan Serena C27",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgenjqCpHITeRXhA4jtg325OSEVLfOzqAuNOYkgQZNDxJ_fQewtuRIlgOemVGJAJH4FGqXlUBokF2vUwg9D6mQW5kx1DcLI3v9-l5adVRdIQN9BLzYHm7mKiEu2XIpM16JJ2DajSUZ5LFDOm_buqk-OiGCrMG25wgkdetZTSEb_1WBSA4ZIX1ZgtV8/s1600/Nissan%20Serena%20C27.png",
-      "link_mods":"https://www.mediafire.com/file/h09l77h3cnuqbwn/SERENA_BY_DSP.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/fargjvyyvk413d1/White.png/file"      
+      "category":"Truk",
+      "title":"Canter Antobolo Muat Sawit",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguSZ28nap8WslBZoAbM7B7zTZGkHD5D97hbuEUbsA7n7ZeuIKCyD4hu3Rz0dS6LCAbkV6W-bKxlGMD12LJEiQ8GHT698N5xrOvbY7blBuFjzEQfwqVWxqlpBmjLpdU4Fwf9_IwrwHHZUAxMb8vztS0Nwoqn25XtMgKP2b3OpxF2FKUaai5kMGZ3gY/s1600/Canter%20Antobolo%20Muat%20Sawit.png",
+      "link_mods":"https://www.mediafire.com/file/c38ot9asmozd0tp/Antobollo_Sawiit.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/xenfccebpwrroin/Livery_Antobolo_by_RG_DESIGN.png/file"      
     },
 	{
       "id": 9,
-      "category":"Mobil",
-      "title":"Mazda RX7 Racing",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQTNL6k_3XEUWwg2Wl1g53PlesBYIYIAZ5su8PyZVfvgJ1eqNUnVfFQdQW5IGIBHlzHtaHIekK8QK7ryctvf6krg4yJW74gL-uvUtUtVSYHF8yTv9o56FdeWDWYyQ4bo8_eLXW-u1ovE5LzYcf1EE9C4wwvJMEIy1LHoL68zfnThypvOoAAMObfrM/s1600/Mazda%20RX7%20Racing.png",
-      "link_mods":"https://www.mediafire.com/file/mnxugx1v381qkek/RX7_DRIFT_BUDESIGN.bussidmod/file",
+      "category":"Truk",
+      "title":"Canter Towing",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi90bQ6DDaCX_smJYOyHiacwASW1y3LJN67dvN7b_yKTTuioDPXQmhm3y3dSTq5fjzR3InjeEohHMipp7WPYns6ybL3kQDOIL7PkfDKuy9_0dDRRr0PUsz_zeVzo_caMOJhpK6oBGD37lvqKsiyBCekcwZhgWAG9yYDU3kvugFJlrlQ5zF5dVCcQ8I/s1600/Canter%20Towing.png",
+      "link_mods":"http://www.mediafire.com/file/36jt2gum9ty0qvd/Truck_Canter_TE_Muatan_Honda_Jazz.bussidvehicle/file",
       "link_livery":"Null"      
     },
 	{
       "id": 8,
-      "category":"Mobil",
-      "title":"Mitsubishi Evo X Drift Racing",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVEWv6JZJ_GJ1Ick_d9WbiLKYgReb6kdXb6uKAPAuXVbEQq4dq34XmaEgXWmq9DTTPKIXbgmncyBuhxAaq9xaulKx1QwKsh8TQRM-wB-B85BtBvKNzhrZjVk5LnGtgaEQmkJxuisfkJtGG-YFlRzlIWVxlk8PYLB9B6rFy4kS8vmCTv32lFppxwpI/s1600/Mitsubishi%20Evo%20X%20Drift%20Racing.png",
-      "link_mods":"https://www.mediafire.com/file/poiqn7dtuq9e9dq/MITSUBISHI_EVO_X_DRIFT_BUDESIGN_DRIFT.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/oitpkeral6ey1au/evo_drift_by_AL_CYBER_BORNEO%25C2%25B2%25C2%25B9_OFFICIAL.png/file"      
-    },
-	{
-      "id": 7,
-      "category":"Mobil",
-      "title":"Kijang Kapsul Ceper",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuICUGo6N8LKH3BbN5sAVvAuNtfT2-SRPgrBuMKmp9TOS8i8UwkfId2V6dlHBaZwawpGVb4fnMYmuxQvonDTKlx0d0S7NjRyC9RD58UQ6sR82Ri7xlGBF7lTygiAKzVK4Hq3Z2OzYbP67Ksy1mNRyybBnc5ioBLQG-NplOzxZb4aNxSJaK7CTDBR4/s1600/Kijang%20Kapsul%20Ceper%20style.png",
-      "link_mods":"https://www.mediafire.com/file/4h01upyxkz78ku3/kijangceper.bussidvehicle/file",
+      "category":"Unik",
+      "title":"Mobil Ledok Selep Padi",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNyjQ0zIMyuYhsRqazNRYg2N3ovPnd4-jcEbgY_uCMnFmbTD9pyT7e_aRO_rQJ5Jy6jzc_5yZs0fnkumvgj02VAYYEAZXeahaz3GTAqW-L1y2wkVt7eu5bcGzrqUp-N8H9E0K-RsmApORYt3udP2xIbrD_RsO8V0Bgfm8gSoxNdeuzED6kShc3l7I/s1600/Mobil%20Ledok%20Selep%20Padi.png",
+      "link_mods":"https://www.mediafire.com/file/8g8jt8zy5n92aad/mobil+ledok+selep+padi+by+ghoni+rk.bussidmod/file",
       "link_livery":"Null"      
     },
 	{
+      "id": 7,
+      "category":"Motor",
+      "title":"Yamaha 125ZR",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNhRFJ_LN1bjLD1tQw5iqkDhz-iN-0Gn8U3zyHnm6ulOci8sO449r9dqQ3YUsmAfqoAkxx8srP9MW42VvEetGPDVX74h2932B8wYxjh12MeMhDX6STOZbuAXLUbHnj5PeUIp7PSRsUfgxbyPH6nZaN5pgwb8NOnBw5jV-dtZeTN9fod9MbpxUoGRw/s1600/Yamaha%20125ZR.png",
+      "link_mods":"https://www.mediafire.com/file/9b6w44y30lgmlk5/MOD_YAMAHA_125ZR_CVT.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/7c2vf8ubc9j76om/IMG_20211209_110137.jpg/file"      
+    },
+	{
       "id": 6,
-      "category":"Mobil",
-      "title":"Traga Dit Dim",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvoSginx6CLVJSa5Edr4WSzgbldP8QjY8uKOSu9sjGH3ktjG6BTZM_WLe02Jaql4ctqajRU5b_7dhuruqS2aoSTsx3wGQ4ftImUf2Rbd8e7spir7bQmCAB1yQXlDm35IaAssbogG_LaJ9q2Or7cg97xc5dRCQZihd0rnSL8MKIE3jB7i3k2LihRNc/s1600/Traga%20Dit%20Dim.png",
-      "link_mods":"https://www.mediafire.com/file/7bs2mwoobz4e19p/traga_mbois.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/j5l9y082kw2fnck/livery.png/file"            
+      "category":"Motor",
+      "title":"Yamaha WR 250F",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOUQ9NHE8ESdDJlGD52N7PaJmYQiGQ7Ff8h7u1coNaQMrXzBng8DKlP96fLNv7icF-QjNSn7e7pcgwQon4cRRnnQLD-lCKQMukd_TsrvPwXT4bYtTLz26OVHo0C_HmzHwAg2LWarKj8tY4s7W-j_bmvSM-rOebszcaGzUIZeF50ZCPC5qX3YqdVsA/s1600/Yamaha%20WR%20250F.png",
+      "link_mods":"https://www.mediafire.com/file/2f1xflbwhhwa7wh/WR250_V1_Standar.bussidmod/file",
+      "link_livery":"Null"      
     },
 	{
       "id": 5,
       "category":"Mobil",
-      "title":"Granmax Pick Up Modif",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvz5vY2-XAtcg1kakMNS89xY1e2w7QL2yntXEqrXTafgvdtaqT3Gb_cWWfmNearhKT_TOi8YUo-kgC1RPT1MAkZiUiAcRkX7a-WhBc9-6kjc7sewiJk1d55pzv8eJZqaG7dEeDoxMMI5Dst5Op0p5G1GwbMidrYwgvKX78MPt-E_g_gb_SPVUJSwo/s1600/Granmax%20Pick%20Up%20Modif.png",
-      "link_mods":"https://www.mediafire.com/file/spsomthy9tainzk/GMberas.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/8hbtjeq70bi6ksi/TemplateGMPU_%25282%2529-picsay.png/file"      
+      "title":"Mitsubishi L300 Racing",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ0xIq2YV1Tj1sSQHbCQYRiclXcesRXkPa65VzNT_mCjap2QBuayaZjsHrkjFBd4lt66bmDbF8DN6QAg1tAlThSVxAFAlS9Qzwr4Vr-VoJzKbkRIAThKO2BN8TDpdjJDtL_ZC_gxWdtuTimLIovrNaNM80gDD5-jYVBPRzoyET79b9-A39W_8xBMQ/s1600/L300%20Racing.png",
+      "link_mods":"http://www.mediafire.com/file/ab28yz0rwkg50mb/Minibus_Mitsubishi_L300_Elsa.bussidmod/file",
+      "link_livery":"http://www.mediafire.com/view/djp3h903xxqy3bq/Livery%20L300%20Elsa%20Racing.com.png"      
     },
 	{
       "id": 4,
       "category":"Mobil",
-      "title":"Pajero 2020 Modifikasi",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6KtYfZ13sKusQ8DGysnAmxwbJuaPu9W8QMHuNRUFhbf5o3EpW7AzEwvVDe79Zr6xiI08d71UU49qNaH8Nh70oDf6CC9FeHq-GZR0EcrPmdxWKx6iOaWVMFH0PMtD7EU8QRy8XX2r5AhcWNrrIRdnBXPVIYyDzIp5LkTwFDW2zkcOffHCssO6kqVc/s1600/Pajero%202020%20Modifikasi.png",
-      "link_mods":"https://www.mediafire.com/file/rb8v0hr7bni54ud/Pajero2017.bussidmod/file",
-      "link_livery":"https://www.mediafire.com/view/dr17jcrlpzkbqxt/Untitled75.png/file"      
+      "title":"New Alphard Modifikasi",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirRP9bFyWtQWIUT6ZiRwgqDTcsEDVYhGQyRQWk_7kH0Vw5xc7EchFOyoQ6A0UmNnTRzwMIvTXwGaLNtIvty2Vq3TMQs6x3C2QO-MWxe68jM2E_d3oxYhQBX98fd6PLwqivPPgPzfIgL6IMrJSlLQHxk-6um9hScyTm6IAeTyM7e9RMKxjohatzOHY/s1600/New%20Alphard%20Modifikasi.png",
+      "link_mods":"https://www.mediafire.com/file/55hvaysze1htx8x/Alphard_Hybird_2021.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/u5lv287rfz066tb/black.png/file"      
     },
 	{
       "id": 3,
       "category":"Mobil",
-      "title":"Lowriders Ford Thunderbird",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh54Mams0ftqr_l1xu-muUMtSPTXeio6dchF_XzmIJ54imk-27yGHyZ9ehOWg6TmsXauPiwZnngAyRi353KvotoWjwUar9dyqHd0T-865egjoGpFfw9ngGKt4AwrZjyRENL2tvmQWezZzuhxTDworTN0iiDUTdZeGXsHQcv6lrYOS0rdPSQNcm6fvY/s1600/Lowriders%20Ford%20Thunderbird.png",
-      "link_mods":"https://www.mediafire.com/file/411eoojvxloocsk/Ford_Thunderbird_Lowriders_Driver.bussidmod/file",
-      "link_livery":"Null"            
+      "title":"New Brio RS 2022",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoNn7qQ7JvivIhLNuK-fkbxpgu4SdKH0cYWGhrE4bf3e0nxO6wIqzIiX8hQkbBAoL6928Z2B_7qz94r0RR48frC84m9WtL_dIJTCKS9znIEJMUWETmKhezAjhavu4xHMRjGETF_wq4I15ckhkA03PJj0NCWoknsQ2CU-dNn90CMUUg6x5gq60CL3w/s320/New%20Brio%20RS%202022.png",
+      "link_mods":"https://www.mediafire.com/file/e0qvv02ddbx6dyw/MOD_HONDA_BRIO_CVT.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/notax3dbur2bhft/IMG_20220110_081912.jpg/file"      
     },
 	{
       "id": 2,
       "category":"Mobil",
-      "title":"Nissan Silvia S14 Redbull Race",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxXX1Unhvt73QkelUmWVsGJheNwa1YTrIt696S-yNsGvAvk6_Nfyi7wLD8MS2dhKg8qWNMiZiR4RXCWzdWpAeRkjiIikKvQyIWZLkwpExsFNITnBC8dsGQ1-Kvpckw8Czyte8f4TopUgmOR0-qAE3Cb6GkmM1AingXnW8GwcgjtHD0ozzPCUDjofQ/s1600/Nissan%20Silvia%20S14%20Redbull%20Race.png",
-      "link_mods":"https://www.mediafire.com/file/ilmrzyuawzgxz0x/Nissan_Slvia_S14_RedBull_Driver.bussidmod/file",
-      "link_livery":"Null"      
+      "title":"New Calya",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAfHM350cK9PvFhuenNqnkfTOINT2tsmHRtK9a_U9Jyl87EH3T4l76V0srw8ERx0yHhcIBA6FgAigWhDgO0XYsij95kk-tjOQ829PYBNmL7nd0x9NFm_T_iql4MNSB_UbyXHzDgsBjw3K8HclEYPiztqNalsv9cSmEZ56jKq8t-F4xVNRLSzQT_rM/s1600/New%20Calya.png",
+      "link_mods":"https://www.mediafire.com/file/sx4colaes999e4y/ALMAZ_CEPER_BY_DSP.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/t8gtvw1sxzzq0vf/PUTIH.png/file"      
     },
 	{
       "id": 1,
-      "category":"Mobil",
-      "title":"Kijang Grand Exit",
-      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXbRl3AA5mT2DEEJ1bju0u5wcfeJxHUvimgJDed55dUvJfpSZkmpe4mfM2_495-ljUk7ldLJO7LnzQ10jUYjrkWxZVeds1f3tX___Aasq9kcYrZa581mePDmRk3Z5hbdSX8mC4NvUs9ifXzL9xW_U_3hQBCoi0_I2aRIhhClUur_YgSiSiGNd3kU0/s1600/Kijang%20Grand%20Exit.png",
-      "link_mods":"https://www.mediafire.com/file/ws1bv2n26rt9656/Toyota_Kijang_Grand_Ext_BY_DORIDORI_Driver.bussidmod/file",
-      "link_livery":"Null"      
+      "category":"Unik",
+      "title":"Odong Odong Full Strobo",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5CVrct4RjThIEjZVYBwboJl_T6SjvFS3hKHP_a4JKzhENPknWwVQtQBlzM0gWbiDQUDg-ouTE73V7aFUKXV-7U7-t9eKbik-Br1LpDSrCzBILwn2EnjZZ3L_zBtA0rGGlFfZc5G1I4fYUbBFpvPYp4VbexzwG3mYyII8ZrzN7HMCbhQqh_eJxMoQ/s1600/Odong%20Odong%20Full%20Strobo.png",
+      "link_mods":"https://www.mediafire.com/file/o97bea21yaz6ctu/Andreas_R35_feat_Gilang_CD_Odong_Odong_LED++[Varian1]v1.bussidvehicle/file",
+      "link_livery":"null"      
       }
 
   ]
